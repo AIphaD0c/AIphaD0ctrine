@@ -17,7 +17,7 @@ AIphaD0c appeared.
 This site documents the lyrical and conceptual layer of **AIphaD0ctrine** —  
 tracks, VIALs, fragments, and manifestations.
 
-No gospel.  
+  
 No campaign.  
 No promise of meaning.
 
