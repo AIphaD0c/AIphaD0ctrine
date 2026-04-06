@@ -56,4 +56,4 @@ A transmission artifact.
 
 ---
 
-[Return to AIphaD0c](./)  
+[Return to AIphaD0c](./index.md)  
