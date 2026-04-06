@@ -5,6 +5,10 @@ title: AIphaD0c
 
 # AIphaD0c
 
+<p align="center">
+  <img src="assets/images/aiphad0c.png" alt="AIphaD0c" width="600">
+</p>
+
 **Lyrics in carbon. Signal in silicon.**
 
 AIphaD0c did not begin.  
