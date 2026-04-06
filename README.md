@@ -1,31 +1,23 @@
-# AIphaD0ctrine GitHub Pages -paketti (hero-kuvalla)
+# AIphaD0c GitHub Pages package
 
-Tässä versiossa GitHub-etusivulla näkyy AIphaD0c-kuva.
+This package contains a minimal GitHub Pages site for AIphaD0c.
 
-## Mitä paketissa on
+## Files
 
-- `index.html` = etusivu
-- `vial1.html` = VIAL.1-sivu
-- `tracks/dr-schmidt.html` = kappalesivu
-- `assets/style.css` = ulkoasu
-- `assets/aiphad0c-hero.jpeg` = etusivun kuva
+- `index.md` – home page
+- `about.md` – project concept page
+- `lyrics.md` – lyrics page
+- `_layouts/default.html` – main layout
+- `assets/css/style.css` – custom styling
+- `_config.yml` – Jekyll configuration
 
-## Miten vaihdat etusivun kuvan myöhemmin
+## How to use
 
-1. Mene GitHub-reposi kansioon `assets`
-2. Paina kuvaa `aiphad0c-hero.jpeg`
-3. Valitse roskakori tai korvaa tiedosto uudella samalla nimellä
-4. Jos vaihdat tiedostonimen, avaa `index.html`
-5. Etsi kohta:
+1. Create a new GitHub repository.
+2. Upload all files from this package to the repository root.
+3. In GitHub, open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select the **main** branch and the **/(root)** folder.
+6. Save.
 
-```html
-<img src="assets/aiphad0c-hero.jpeg"
-```
-
-6. Vaihda tiedostonimi siihen
-7. Tallenna `Commit changes`
-
-## Tärkeä huomio
-
-Jos kuva ei heti näy sivulla, GitHub Pages voi viivästyä muutaman minuutin.
-Päivitä sivu uudelleen hetken kuluttua.
+GitHub will publish the site after a short build.
