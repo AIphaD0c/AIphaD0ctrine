@@ -53,3 +53,7 @@ Not therapy.
 Not religion.
 
 A transmission artifact.
+
+---
+
+[Back to Home] (./)
