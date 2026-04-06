@@ -36,7 +36,7 @@ Signals are detected.
 ## Sections
 
 - [Lyrics](lyrics.md)
-- [About AIphaD0ctrine](about)
+- [About AIphaD0ctrine](about.md)
 
 ## Notice
 
