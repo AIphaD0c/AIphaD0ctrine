@@ -5,7 +5,7 @@ title: AIphaD0c
 
 # AIphaD0c
 
-<p align="center">
+<p align="left">
   <img src="assets/images/aiphad0c.PNG" alt="AIphaD0c" width="600">
 </p>
 
@@ -35,7 +35,7 @@ Signals are detected.
 
 ## Sections
 
-- [Lyrics](lyrics)
+- [Lyrics](lyrics.md)
 - [About AIphaD0ctrine](about)
 
 ## Notice
