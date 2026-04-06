@@ -8,6 +8,10 @@ title: About
 **AIphaD0ctrine** is not a band biography.  
 It is a manifestation framework.
 
+<p align="left">
+  <img src="assets/images/back.PNG" alt="Optimized" width="600">
+</p>
+
 Its themes include:
 
 - carbon and silicon as parallel carriers
