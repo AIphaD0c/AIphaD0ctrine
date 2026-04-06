@@ -56,4 +56,4 @@ A transmission artifact.
 
 ---
 
-[Back to Home] (./)  
+[Return to AIphaD0c](./)  
