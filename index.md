@@ -6,7 +6,7 @@ title: AIphaD0c
 # AIphaD0c
 
 <p align="center">
-  <img src="assets/images/aiphad0c.png" alt="AIphaD0c" width="600">
+  <img src="AIphaD0ctrine/assets/images/aiphad0c.png" alt="AIphaD0c" width="600">
 </p>
 
 **Lyrics in carbon. Signal in silicon.**
