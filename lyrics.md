@@ -22,7 +22,7 @@ Each VIAL contains its own internal theme, tone, and signal pattern.
 ## Example entry format
 
 ### VIAL.1 broke
-<a hfref="https://on.soundcloud.com/iy4yEaDnQ1TGYPs471" target="_balnk" rel="noopener
+<a hfref="https://on.soundcloud.com/iy4yEaDnQ1TGYPs471" target="_blank" rel="noopener
 noreferrer">
 Appeared on SoundCloud
 </a>
