@@ -74,7 +74,7 @@ Sing it loud. The slopes will never be the same.
 
 ---
 
-[Return to AIphaD0c](./)  
+[Return to AIphaD0c](./index.md)  
 
 
 ### AIphaD0c – ICEhuman
