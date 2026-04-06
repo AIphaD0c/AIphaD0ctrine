@@ -23,11 +23,10 @@ Each VIAL contains its own internal theme, tone, and signal pattern.
 
 ### VIAL.1 broke
 <p>
-  <a href="https://soundcloud.com/yourname/dr-schmidt" target="_blank" rel="noopener noreferrer">
-    Open Dr. Schmidt on SoundCloud
+  <a href="https://soundcloud.com/aipha-d0c/sets/aipha-d0ctrine-vial-1?si=c3866e12eb2946268cd589796f8c2ddf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank" rel="noopener noreferrer">
+    VIAL.1 on SoundCloud
   </a>
 </p>
-
 
 **AIphaD0c – Dr. Schmidt appeared.**
 
