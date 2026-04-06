@@ -21,7 +21,7 @@ Each VIAL contains its own internal theme, tone, and signal pattern.
 
 ## Example entry format
 
-### VIAL.1 broke(https://on.soundcloud.com/iy4yEaDnQ1TGYPs471)  
+### VIAL.1 broke(https://on.soundcloud.com/iy4yEaDnQ1TGYPs471)
 **AIphaD0c – Dr. Schmidt appeared.**
 
 Dr. Schmidt, what went on in your head?  
