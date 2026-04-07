@@ -11,7 +11,7 @@ layout: default
 It is a manifestation framework.
 
 <p align="left">
-  <img src="assets/images/back.PNG" alt="Optimized" width="600">
+  <img src="{{ '/assets/images/back.PNG' | relative_url }}" alt="Optimized" width="600">
 </p>
 
 Its themes include:
