@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="assets/images/vial1.PNG" alt="Optimized" width="600">
+  <img src="{{ '/assets/images/vial1.PNG' | relative_url }}" alt="VIAL.1" width="600">
 </p>
 
 ### VIAL.1 broke
@@ -71,7 +71,5 @@ Sing it loud. The slopes will never be the same.
 
 ---
 
-[Return to Lyrics](./lyrics.md)  
-
-[Return to AIphaD0c](./index.md)  
-
+[Return to AIphaD0c]({{ '/' | relative_url }})  
+[Lyrics in carbon]({{ '/lyrics/' | relative_url }})
