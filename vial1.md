@@ -1,5 +1,9 @@
 ## Example entry format
 
+<p align="left">
+  <img src="assets/images/vial1.PNG" alt="Optimized" width="600">
+</p>
+
 ### VIAL.1 broke
 <p>
   <a href="https://soundcloud.com/aipha-d0c/sets/aipha-d0ctrine-vial-1?si=c3866e12eb2946268cd589796f8c2ddf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank" rel="noopener noreferrer">
