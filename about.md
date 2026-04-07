@@ -38,7 +38,6 @@ Instead:
 
 - VIALs break
 - tracks appear
-- videos surface
 - transmissions come through
 - manifestations are registered
 
