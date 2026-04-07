@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #000000;
-  color: #e6f4ff;
+  color: #e8f4ff;
 }
 
 body {
@@ -17,47 +17,56 @@ header, footer, nav, main, section, article, div {
   background-color: transparent;
 }
 
+/* Kaikki tavallinen teksti */
+body, p, li, ul, ol, strong, em, span, small, label, blockquote, td, th {
+  color: #e8f4ff;
+}
+
+/* Otsikot */
 h1, h2, h3, h4, h5, h6 {
-  color: #f8fcff;
+  color: #f3faff;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
   margin-top: 1.8rem;
   margin-bottom: 0.8rem;
+  text-transform: uppercase;
 }
 
-p, li, ul, ol, strong, em, blockquote {
-  color: #e6f4ff;
-}
-
-a {
-  color: #cfe9ff;
+/* Linkit */
+a,
+a:link,
+a:visited,
+a:active {
+  color: #e8f4ff;
   text-decoration: underline;
 }
 
-a:hover {
+a:hover,
+a:focus {
   color: #ffffff;
+  text-decoration: underline;
 }
 
-a:visited {
-  color: #a9d4ff;
-}
-
+/* Viivat ja rajat */
 hr {
   border: none;
-  border-top: 1px solid #314657;
+  border-top: 1px solid #263847;
   margin: 2rem 0;
 }
 
+/* Lainaukset */
 blockquote {
-  border-left: 3px solid #cfe9ff;
+  color: #e8f4ff;
+  border-left: 3px solid #d9ecff;
   padding-left: 1rem;
   margin-left: 0;
 }
 
+/* Koodi */
 code, pre {
-  background-color: #050b10;
-  color: #dff1ff;
-  border: 1px solid #22313d;
+  background-color: #05090d;
+  color: #e8f4ff;
+  border: 1px solid #1a2630;
   border-radius: 4px;
 }
 
@@ -70,6 +79,7 @@ pre {
   overflow-x: auto;
 }
 
+/* Kuvat: kehys mustaksi */
 img {
   display: block;
   max-width: 100%;
@@ -78,6 +88,7 @@ img {
   border: 1px solid #000000;
 }
 
+/* Taulukot */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -85,30 +96,56 @@ table {
 }
 
 th, td {
-  border: 1px solid #314657;
+  border: 1px solid #263847;
   padding: 0.7rem;
   text-align: left;
-  color: #e6f4ff;
+  color: #e8f4ff;
 }
 
 th {
-  color: #f8fcff;
-  background-color: #050b10;
+  color: #f3faff;
+  background-color: #05090d;
 }
 
+/* Sivuston otsikko */
 .site-title,
-.site-title a {
-  color: #f8fcff;
+.site-title a,
+.site-title a:visited,
+.site-title a:hover {
+  color: #f3faff;
   text-decoration: none;
+}
+
+/* Navigaatio */
+.site-nav,
+.site-nav a,
+.site-nav a:visited,
+.site-nav a:active {
+  color: #e8f4ff;
 }
 
 .site-nav a {
   margin-right: 1rem;
 }
 
+.site-nav a:hover {
+  color: #ffffff;
+}
+
+/* Footer */
 footer {
   margin-top: 3rem;
   padding-top: 1rem;
-  border-top: 1px solid #314657;
-  color: #a9bfd0;
+  border-top: 1px solid #263847;
+  color: #d6e8f7;
+}
+
+footer a,
+footer a:visited,
+footer a:active {
+  color: #d6e8f7;
+}
+
+footer a:hover {
+  color: #ffffff;
 }
