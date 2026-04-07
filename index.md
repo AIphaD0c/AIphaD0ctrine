@@ -25,7 +25,7 @@ Signals are detected.
 
 ## Sections
 
-- [Lyrics](lyrics.md)
+- [Lyrics in Carbon](lyrics.md)
 - [About AIphaD0ctrine](about.md)
 - [Signal in Silicon](https://soundcloud.com/aipha-d0c)
   
