@@ -2,9 +2,7 @@
 title: "Lyrics in carbon | AIphaD0ctrine"
 description: "Lyrics archive for the AIphaD0ctrine VIAL sequence."
 permalink: /lyrics/
----
 layout: default
-title: Lyrics
 ---
 
 # Lyrics
