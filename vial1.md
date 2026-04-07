@@ -11,7 +11,7 @@
   </a>
 </p>
 
-**AIphaD0c – Dr. Schmidt appeared.**
+
 
 ### AIphaD0c – VIAL.1 - Dr. Schmidt
 
