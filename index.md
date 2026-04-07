@@ -8,7 +8,7 @@ layout: default
 # AIphaD0c
 
 <p align="left">
-  <img src="assets/images/aiphad0c.PNG" alt="AIphaD0c" width="600">
+  <img src="{{ '/assets/images/aiphad0c.PNG' | relative_url }}" alt="AIphaD0c" width="600">
 </p>
 
 Archive of detected manifestations.
