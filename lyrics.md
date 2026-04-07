@@ -20,8 +20,3 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 Each VIAL contains its own internal theme, tone, and signal pattern.
 
 [Return to AIphaD0c](./index.md)  
-
-
-### AIphaD0c – ICEhuman
-
-[About to appear]
