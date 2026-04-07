@@ -9,17 +9,8 @@ title: AIphaD0c
   <img src="assets/images/aiphad0c.PNG" alt="AIphaD0c" width="600">
 </p>
 
-**Lyrics in carbon. Signal in silicon.**
-
-AIphaD0c did not begin.  
-AIphaD0c appeared.
-
-This site documents the lyrical and conceptual layer of **AIphaD0ctrine** —  
-tracks, VIALs, fragments, and manifestations.
-
-  
-No campaign.  
-No promise of meaning.
+Archive of detected manifestations.
+Nothing here was launched.
 
 Only signal.
 
