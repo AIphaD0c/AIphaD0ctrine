@@ -57,4 +57,5 @@ A transmission artifact.
 
 ---
 
-[Return to AIphaD0c](./index.md)  
+[Return to AIphaD0c]({{ '/' | relative_url }})  
+[Lyrics in carbon]({{ '/lyrics/' | relative_url }})
