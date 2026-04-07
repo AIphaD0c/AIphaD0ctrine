@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+---
 
 ### AIphaD0c – VIAL.1 - Dr. Schmidt
 
@@ -68,6 +68,8 @@ Sing it loud. The slopes will never be the same.
 ### AIphaD0c – ICE_man
 
 [About to appear]
+
+---
 
 [Return to Lyrics](./lyrics.md)  
 
