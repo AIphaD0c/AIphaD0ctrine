@@ -63,5 +63,7 @@ Sing it loud. The slopes will never be the same.
 
 [About to appear]
 
+[Return to Lyrics](./lyrics.md)  
+
 [Return to AIphaD0c](./index.md)  
 
