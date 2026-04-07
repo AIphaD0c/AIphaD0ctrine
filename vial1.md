@@ -1,4 +1,4 @@
-## Example entry format
+
 
 <p align="left">
   <img src="assets/images/vial1.PNG" alt="Optimized" width="600">
