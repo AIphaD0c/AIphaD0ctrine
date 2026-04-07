@@ -4,3 +4,5 @@ url: "https://aiphad0c.github.io"
 baseurl: "/AIphaD0ctrine"
 lang: en
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
