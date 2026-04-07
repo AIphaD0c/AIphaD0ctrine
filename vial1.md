@@ -44,8 +44,8 @@ I wanna know, I wanna know what you meant, yeah
 All the skiers got enhanced, boosted,  
 and superhumanized — blood transfusions,  
 EPO flooding their veins,  
-insulin-like growth factor rebuilding their muscles  
-while the foolish mortals gasped in the powder behind them.  
+insulin-like growth factor 
+rebuilding their muscles while the foolish mortals gasped in the powder behind them.  
 Dr. Schmidt turned cross-country mortals into snow gods  
 who laughed at oxygen debt and laughed even harder  
 at the clean athletes left choking on their wake.  
@@ -65,7 +65,7 @@ Sing it loud. The slopes will never be the same.
 
 ---
 
-### AIphaD0c – ICEhuman
+### AIphaD0c – ICE_man
 
 [About to appear]
 
