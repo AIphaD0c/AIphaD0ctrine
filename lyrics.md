@@ -9,6 +9,8 @@ This page gathers the lyrical texts associated with **AIphaD0c**.
 
 These works are presented as manifestations within **AIphaD0ctrine**.
 
+---
+
 ## VIAL structure
 
 - [VIAL.1](./vial1.md/)
@@ -19,5 +21,7 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 
 
 Each VIAL contains its own internal theme, tone, and signal pattern.
+
+---
 
 [Return to AIphaD0c](./index.md)  
