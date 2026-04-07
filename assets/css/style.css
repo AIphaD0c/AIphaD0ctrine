@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #000000;
-  color: #7CFF7C;
+  color: #e6f4ff;
 }
 
 body {
@@ -18,46 +18,46 @@ header, footer, nav, main, section, article, div {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #eaf6ff;
+  color: #f8fcff;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
   margin-top: 1.8rem;
   margin-bottom: 0.8rem;
 }
 
 p, li, ul, ol, strong, em, blockquote {
-  color: #7CFF7C;
+  color: #e6f4ff;
 }
 
 a {
-  color: #eaf6ff;
+  color: #cfe9ff;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #b6ffb6;
+  color: #ffffff;
 }
 
 a:visited {
-  color: #66ff99;
+  color: #a9d4ff;
 }
 
 hr {
   border: none;
-  border-top: 1px solid #1f4d1f;
+  border-top: 1px solid #314657;
   margin: 2rem 0;
 }
 
 blockquote {
-  border-left: 3px solid #eaf6ff;
+  border-left: 3px solid #cfe9ff;
   padding-left: 1rem;
   margin-left: 0;
 }
 
 code, pre {
-  background-color: #071107;
-  color: #9dff9d;
-  border: 1px solid #143814;
+  background-color: #050b10;
+  color: #dff1ff;
+  border: 1px solid #22313d;
   border-radius: 4px;
 }
 
@@ -75,7 +75,7 @@ img {
   max-width: 100%;
   height: auto;
   margin: 1.5rem auto;
-  border: 1px solid #1f4d1f;
+  border: 1px solid #000000;
 }
 
 table {
@@ -85,20 +85,20 @@ table {
 }
 
 th, td {
-  border: 1px solid #1f4d1f;
+  border: 1px solid #314657;
   padding: 0.7rem;
   text-align: left;
-  color: #7CFF7C;
+  color: #e6f4ff;
 }
 
 th {
-  color: #eaf6ff;
-  background-color: #071107;
+  color: #f8fcff;
+  background-color: #050b10;
 }
 
 .site-title,
 .site-title a {
-  color: #eaf6ff;
+  color: #f8fcff;
   text-decoration: none;
 }
 
@@ -109,6 +109,6 @@ th {
 footer {
   margin-top: 3rem;
   padding-top: 1rem;
-  border-top: 1px solid #1f4d1f;
-  color: #4faa4f;
+  border-top: 1px solid #314657;
+  color: #a9bfd0;
 }
