@@ -26,4 +26,5 @@ Each VIAL contains its own internal theme, tone, and signal pattern.
 
 ---
 
-[Return to AIphaD0c](./index.md)  
+[Return to AIphaD0c]({{ '/' | relative_url }})  
+[Back to lyrics]({{ '/lyrics/' | relative_url }})
