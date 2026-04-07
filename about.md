@@ -1,4 +1,8 @@
 ---
+title: "About AIphaD0ctrine"
+description: "Concept, manifestations, VIAL structure, and transmission logic of AIphaD0ctrine."
+permalink: /about/
+---
 layout: default
 title: About
 ---
