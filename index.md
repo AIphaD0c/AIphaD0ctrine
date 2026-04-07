@@ -23,6 +23,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
+**AIphaD0c – Dr. Schmidt appeared.**(vial1.md)
+
 ## Sections
 
 - [Lyrics in Carbon](lyrics.md)
