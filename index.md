@@ -32,6 +32,7 @@ Signals are detected.
 - [Lyrics in Carbon](lyrics.md)
 - [About AIphaD0ctrine](about.md)
 - [Signal in Silicon](https://soundcloud.com/aipha-d0c)
+- [AIphaD0c on YouTube](https://youtube.com/@AIphaD0c)
   
 ## Notice
 
