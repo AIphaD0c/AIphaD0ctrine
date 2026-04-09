@@ -55,50 +55,50 @@ Sing it loud. The slopes will never be the same.
 
 ### AIphaD0c – Vial.1 - Meatseeker
 
-She got the body, built from iron and hate
-Sweatin’ in the dungeon, never satisfied, never late
-Cruisin’ for the mass, through the racks and the plates
-Meatseeker… meatseeker!
+She got the body, built from iron and hate  
+Sweatin’ in the dungeon, never satisfied, never late  
+Cruisin’ for the mass, through the racks and the plates  
+Meatseeker… meatseeker!  
 
-Pumpin’ in the mirror, liftin’ through the night
-Chasin’ that shadow, tryna grow out of sight
-No bars too heavy, the iron bends to my will
-Meatseeker… meatseeker!
+Pumpin’ in the mirror, liftin’ through the night  
+Chasin’ that shadow, tryna grow out of sight  
+No bars too heavy, the iron bends to my will  
+Meatseeker… meatseeker!  
 
-Meatseeker! Crawlin’ through the sites
-Meatseeker! Never sleepin’ at night
-Meatseeker! Pumpin’, stretchin’, fryin’ my thighs
-Meatseeker! Still too fuckin’ small in my eyes!
+Meatseeker! Crawlin’ through the sites  
+Meatseeker! Never sleepin’ at night  
+Meatseeker! Pumpin’, stretchin’, fryin’ my thighs  
+Meatseeker! Still too fuckin’ small in my eyes!  
 
-Double chicken breast, rice on the side
-Casein before bed, yeah I’m keepin’ the tide
-Gains come slow, but the hunger don’t die
-Meatseeker… meatseeker!
+Double chicken breast, rice on the side  
+Casein before bed, yeah I’m keepin’ the tide  
+Gains come slow, but the hunger don’t die  
+Meatseeker… meatseeker!  
 
-Veins like a roadmap, delts like cannonballs
-Still see a skinny kid when the posing trunks fall
-No matter how much I eat, I still want it all
-Meatseeker… meatseeker!
+Veins like a roadmap, delts like cannonballs  
+Still see a skinny kid when the posing trunks fall  
+No matter how much I eat, I still want it all  
+Meatseeker… meatseeker!  
 
-Meatseeker! Crawlin’ through the sites
-Meatseeker! Never sleepin’ at night
-Meatseeker! Pumpin’, stretchin’, fryin’ my thighs
-Meatseeker! Still too fuckin’ small in my eyes!
+Meatseeker! Crawlin’ through the sites  
+Meatseeker! Never sleepin’ at night  
+Meatseeker! Pumpin’, stretchin’, fryin’ my thighs  
+Meatseeker! Still too fuckin’ small in my eyes!  
 
-The weights will obey my mighty command
-But the mirror keeps lyin’, don’t understand
-250? 300? I still look like a man
-Who forgot to grow… god damn!
+The weights will obey my mighty command  
+But the mirror keeps lyin’, don’t understand  
+250? 300? I still look like a man  
+Who forgot to grow… god damn!  
 
-Meatseeker! Crawlin’ through the sites
-Meatseeker! Livin’ for the next bite
-Meatseeker! Never gonna be big enough, right?
-Meatseeker! MEATSEEKER! MEATSEEKER ALL MY LIFE!
-Yeah yeah yeah…
-Still too small…
-Still too small…
-Pass the chicken… one more plate…
-Meatseeker!
+Meatseeker! Crawlin’ through the sites  
+Meatseeker! Livin’ for the next bite  
+Meatseeker! Never gonna be big enough, right?  
+Meatseeker! MEATSEEKER! MEATSEEKER ALL MY LIFE!  
+Yeah yeah yeah…  
+Still too small…  
+Still too small…  
+Pass the chicken… one more plate…  
+Meatseeker!  
 
 ---
 
