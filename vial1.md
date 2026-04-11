@@ -102,13 +102,65 @@ Meatseeker!
 
 ---
 
-### AIphaD0c – T.R.T.
+### AIphaD0c – ICE_man
 
-[About to appear]
+Puck in net, I hit the ice  
+Been on the bench, now feelin’ real nice  
+Yes, I’m let loose from the crease  
+That kept me hangin’ out of the piece  
+I’m just starin’ at the red light ‘cause it’s gettin’ me high  
+Forget the whistle, ’cause we never die  
+I’m rollin’ thunder, slashin’ pain  
+Comin’ on like a hurricane  
+
+‘Cause I’m back  
+Yes, I’m back  
+Well, I’m back  
+Yes, I’m back  
+Well, I’m back  
+Back  
+Well, I’m PUCK, PUCK IN NET  
+Yes, I’m PUCK, PUCK IN NET  
+
+Golden goal, lights go flash  
+Overtime, crowd goes crash  
+Ice gladiators, blades of steel  
+Givin’ blood, makin’ it real  
+We got no mercy, we take no shift  
+Body check, we live for this rift  
+Got my stick, gonna bury that disc  
+Gonna slam it, yeah, make ’em sick  
+
+‘Cause we’re back  
+Yes, we’re back  
+Well, we’re back  
+Yes, we’re back  
+Well, we’re back  
+Back  
+Well, we’re PUCK, PUCK IN NET  
+Yes, we’re PUCK, PUCK IN NET  
+
+Sacrifice all we have  
+Sacrifice all we got  
+Bleed on the ice, never stop  
+Black puck flyin’, top shelf shot  
+
+‘Cause I’m back  
+Yes, I’m back  
+Well, I’m back  
+Yes, I’m back  
+Well, I’m back  
+Back  
+Well, I’m PUCK, PUCK IN NET  
+Yes, I’m PUCK, PUCK IN NET  
+PUCK IN NET  
+PUCK IN NET  
+Yeah!  
+(Yeah! Golden goals! Ice warriors! Black puck baby! Ow!)  
 
 ---
 
-### AIphaD0c – ICE_man
+### AIphaD0c – T.R.T.
 
 [About to appear]
 
