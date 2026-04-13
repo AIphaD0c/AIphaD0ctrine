@@ -162,9 +162,9 @@ Yeah!
 
 ### AIphaD0c – T.R.T.
 
- Oi, oi, oi, oi  
- Oi, oi, oi, oi  
- Oi, oi, oi, oi Oi, oi, oi 
+Oi, oi, oi, oi  
+Oi, oi, oi, oi  
+Oi, oi, oi, oi Oi, oi, oi 
  
 See me charge out of the slowdown  
 On your doctor’s big screen  
