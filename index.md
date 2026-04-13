@@ -25,7 +25,7 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – ICE_man appeared. Puck detected.**](vial1.md)
+[**AIphaD0c – T.R.T. appeared. Replacement therapy detected.**](vial1.md)
 
 ## Sections
 
