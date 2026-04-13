@@ -162,7 +162,68 @@ Yeah!
 
 ### AIphaD0c – T.R.T.
 
-[About to appear]
+ Oi, oi, oi, oi  
+ Oi, oi, oi, oi  
+ Oi, oi, oi, oi Oi, oi, oi 
+ 
+See me charge out of the slowdown  
+On your doctor’s big screen  
+Out for all the gains  
+I can get  
+If you know what I mean  
+
+Levels to the left of me  
+And vigor to the right  
+Ain’t got no slump  
+Ain’t got no fade  
+Gonna own this fight  
+
+‘Cause I’m on   
+T.R.T. I’m dynamite  
+T.R.T. and I’ll win the fight  
+T.R.T. I’m a power load  
+T.R.T. watch me explode  
+
+I’m boosted, lean, and mighty supreme  
+I’m the alpha man  
+Aging’s enemy number one  
+Understand  
+
+So pump up your routine  
+Fire up your drive  
+Lock in your gains now  
+And feel so alive  
+
+The man’s back in prime  
+Don’t you waste no time  
+
+‘Cause I’m on  
+T.R.T. I’m dynamite  
+T.R.T. and I’ll win the fight  
+T.R.T. I’m a power load  
+T.R.T. watch me explode  
+
+More is more, we want testo  
+Levels high, breaking through  
+No more drag, no more blues  
+TRT’s the fuse!  
+
+‘Cause I’m on  
+T.R.T. I’m dynamite  
+T.R.T. more is more 
+T.R.T. we want testo  
+T.R.T. watch me soar
+
+T.R.T. I’m dynamite  
+T.R.T. and I’ll win the fight  
+T.R.T. I’m a power load  
+T.R.T. watch me explode  
+
+T.R.T.! (oi, oi, oi, oi)  
+T.R.T.! (oi, oi, oi, oi)  
+T.R.T.! (oi, oi, oi, oi)  
+T.R.T.! (oi, oi, oi, oi)  
+T.R.T., watch me explode!
 
 ---
 
