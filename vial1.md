@@ -53,7 +53,7 @@ Sing it loud. The slopes will never be the same.
 
 ---
 
-### AIphaD0c – Vial.1 - Meatseeker
+### AIphaD0c – VIAL.1 - Meatseeker
 
 She got the body, built from iron and hate  
 Sweatin’ in the dungeon, never satisfied, never late  
@@ -102,7 +102,7 @@ Meatseeker!
 
 ---
 
-### AIphaD0c – ICE_man
+### AIphaD0c – VIAL.1 - ICE_man
 
 Puck in net, I hit the ice  
 Been on the bench, now feelin’ real nice  
@@ -160,7 +160,7 @@ Yeah!
 
 ---
 
-### AIphaD0c – T.R.T.
+### AIphaD0c – VIAL.1 - T.R.T.
 
 Oi, oi, oi, oi  
 Oi, oi, oi, oi  
