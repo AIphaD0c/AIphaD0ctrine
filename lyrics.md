@@ -16,7 +16,7 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 ## VIAL structure
 
 - [VIAL.1](./vial1.md/)
-- [VIAL.2]
+- [VIAL.2](./vial2.md/)
 - [VIAL.3]
 - [VIAL.4]
 - [VIAL.5]
