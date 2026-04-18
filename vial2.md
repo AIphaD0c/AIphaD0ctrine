@@ -67,7 +67,7 @@ And entropy don’t wait
 
 Some think they thrive alone  
 That fools praise their crown  
-Lottery just gave ’em 
+Lottery just gave ’em  
 Some genes more than down  
 How dare you come and beat them  
 Void will be the only anthem  
