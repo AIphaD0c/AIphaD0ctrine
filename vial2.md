@@ -92,9 +92,9 @@ JUST WASTING FUCKIN’ TIME!
 
 ---
 
-### AIphaD0c - Fatal split
+### AIphaD0c – VIAL.2 - Fatal split
 
-Fate struck when the first split came. 
+Fate struck when the first split came  
 A fracture no one could explain  
 It tore me  
 I rushed through the membrane, felt the cold  
@@ -151,13 +151,13 @@ Fade on the last repeating line, slow and hollow, like consciousness itself is s
 
 ---
 
-### AIphaD0c – Mammal revolution
+### AIphaD0c – VIAL.2 – Mammal revolution
 
 About to appear  
 
 ---
 
-### AIphaD0c – Anicracy
+### AIphaD0c – VIAL.2 – Anicracy
 
 About to appear  
 
