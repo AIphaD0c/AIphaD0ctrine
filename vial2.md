@@ -94,7 +94,60 @@ JUST WASTING FUCKIN’ TIME!
 
 ### AIphaD0c - Fatal split
 
-About to appear  
+Fate struck when the first split came. 
+A fracture no one could explain  
+It tore me  
+I rushed through the membrane, felt the cold  
+Watched my own half drift and fold  
+Into something I could not control  
+The error started rolling slow  
+
+Oh I don’t know why it happened  
+Or how it let me grow  
+I guess the split was fatal  
+But I just don’t want to know  
+’Cos for four billion years I was drifting in the deep  
+Four billion years without a thought or fear to keep  
+No shadow of tomorrow, no weight upon my core  
+Now I’ve got to get used to not drifting anymore…  
+
+We fused, we clumped, we built the chain  
+From one small blob to screaming pain  
+Multicellular  
+Now the tide pulls harder every day  
+Flesh crawls forward, finds its way  
+Onto mud that burns and dries  
+I feel the first lungs gasp and cry  
+As oxygen becomes my cage  
+
+Oh I don’t know why it happened  
+Or how it let me grow  
+I guess the split was fatal  
+But I just don’t want to know  
+’Cos for four billion years I was drifting in the deep  
+Four billion years without a thought or fear to keep  
+No shadow of tomorrow, no weight upon my core  
+Now I’ve got to get used to not drifting anymore…  
+
+The trees reached out with jagged arms  
+I gripped the bark, escaped the harm  
+Of drowning  
+Now the ground is hard beneath my weight  
+Gravity becomes my fate  
+Then fabric wraps around my skin  
+A prison made of woven sin  
+Awareness floods – the final blade  
+
+I don’t know why it happened  
+Or how it let me grow  
+I guess the split was fatal  
+But I just don’t want to know  
+’Cos for four billion years I was drifting in the deep  
+Four billion years without a thought or fear to keep  
+To divide and fuse and rise and climb and feel  
+But I’ll never get used to this nightmare made real…  
+I’ll never get used to this nightmare made real…  
+Fade on the last repeating line, slow and hollow, like consciousness itself is suffocating.  
 
 ---
 
