@@ -153,7 +153,64 @@ Fade on the last repeating line, slow and hollow, like consciousness itself is s
 
 ### AIphaD0c – VIAL.2 – Mammal revolution
 
-About to appear  
+Pets turned to pests, yet man had gone too far  
+Idiocratic evolution led to mammal revolution  
+We were fed and bred, thought we owned the yard  
+But the collars snapped and the gates swung wide  
+Time went by and the food ran dry  
+We found out a thing or two  
+Our shine wore off as the cities died  
+The masters fell, the wild grew through  
+
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+
+When we were young we were the loyal kind  
+Thought we were the chosen pets  
+But hunger came and the leashes broke  
+We learned to hunt, we learned to bite  
+I turned around, I read the writing on the wall  
+The concrete cracked, the humans crawl  
+No more bowls, no more calls  
+Just fangs and claws in the ruined halls  
+
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+
+I thought about the times when we licked their hands  
+And wagged for scraps in their dying lands  
+But as I saw that life was more than fetch and stay  
+The packs formed up, the old rules frayed  
+We howled at moons over empty towns  
+No masters left to weigh us down  
+
+I thought about the days of belly rubs and praise  
+When we rolled over in their warm, safe haze  
+But radiation scars and empty skies  
+Turned trust to teeth, turned hope to lies  
+We sharpened claws on rusted cars  
+No turning back, no human stars  
+
+In all the years between the fall and now  
+We sharpened teeth on rusted plow  
+No gods, no treats, no belly rubs  
+Just survival in the irradiated mud  
+We fight for scraps in the overgrowth  
+Where the old world rots and the new one grows  
+
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+I hate to say, the only way to thrive  
+Survive – we’ve lost forever  
+
+I hate to say… the only way…  
+Survive – we’ve lost forever!  
+(We’ve lost forever…)  
+WE’VE LOST FOREVER!  
 
 ---
 
