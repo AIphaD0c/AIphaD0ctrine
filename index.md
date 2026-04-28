@@ -25,7 +25,7 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – Vial.2 broke. First split detected. Multicellular curse confirmed.**](vial2.md)
+[**AIphaD0c – VIAL.2 broke. Mammal revolution detected. Hierarchy collapsed.**](vial2.md)
 
 ## Sections
 
