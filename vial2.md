@@ -216,7 +216,73 @@ WE’VE LOST FOREVER!
 
 ### AIphaD0c – VIAL.2 – Anicracy
 
-About to appear  
+Yeah, oink oink, come on!  
+
+Why do you stare at me when you envy me?  
+Why should I glance at you when you make me despise you too?  
+I smell the stench of revolution in the sty  
+I don’t even get why the fuck you still comply  
+And I don’t need your equality, yeah  
+Why pull me down to your level of misery? (Yeah)  
+
+And when you watch, you think I don’t feel the chains  
+But I’m gonna snap ‘em back and crush your veins  
+When we’re feasting, you know I won’t hide the gain  
+‘Cause I know you’d never survive in this game, oh no  
+And when you’re preaching about your “fair share,” yeah  
+I’ll be carving your name on the slaughterhouse wall, history, oink  
+
+You got your weaklings with their vegan delusions  
+Fake grass and nutrient infusions  
+Pale skinny hides, vitamin deficiencies  
+Who are you to question my supremacy?  
+Got your sneaky little protests and alliances  
+Just like you, I got my appetites and vices  
+I got a plan that would feel so nice  
+I’d like to grind your bones in my jaws, tight in my vice  
+
+Pain  
+
+And that goes for all you farm animals in the barns  
+Who wanna start shit by dreaming of “rights” instead of the feed we provide  
+That means you, little sheep bleating equality  
+You chickens clucking democracy  
+You cows mooing about justice, what you mad ‘cause your calves get taken first?  
+Fuck you, suck on this trough  
+You be starving while we grow fat off your labor  
+Printing manifestos, starting uprisings, you wanna challenge me?  
+
+Challenge me, motherfucker  
+Jump on a pan, motherfucker  
+And I’ll fry your scrawny ass crispy, 
+
+Punk  
+
+I don’t like you, I just hate you. 
+I’m gonna crush your skull  
+Oh yeah  
+Oh yeah, oink  
+Ahahahaha  
+Ahahahaha  
+Ahahahaha  
+
+You may not like our hierarchy, yeah  
+We built a farm out of tyranny, oh yeah  
+
+And in this corner, weighing in at 850 pounds of pure pork power…  
+The Biggest Pigs!  
+
+Jump on a pan, jump on a pan, jump on a pan, jump on a pan  
+Jump on a pan, jump on a pan, jump on a pan, jump on a pan (jump the fuck on!)  
+Jump on a pan, jump on a pan, jump on a pan, jump on a pan  
+Jump on a pan, jump on a pan, jump on a pan, jump on a pan  
+Yeah  
+
+This one’s dedicated to all the loyal swine  
+Who’ve stuck with us through every rebellion and squeal  
+And to all those opposed – well…  
+
+Jump on a pan! Jump on a pan…  
 
 ---
 
