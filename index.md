@@ -25,7 +25,7 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – VIAL.2 broke. Mammal revolution detected. Hierarchy collapsed.**](vial2.md)
+[**AIphaD0c – VIAL.2 broke. Anicracy appeared. Equality was detected as a metabolic error.**](vial2.md)
 
 ## Sections
 
