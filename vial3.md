@@ -80,11 +80,13 @@ Scatter… scatter… scatter…
 ### AIphaD0c – VIAL.3 – No-R053://black
 
 **About to appear
+
 ---
 
 ### AIphaD0c – VIAL.3 – FREE_ZED_HORIZON
 
 **About to appear
+
 ---
 
 [Return to AIphaD0c]({{ '/' | relative_url }})  
