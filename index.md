@@ -25,7 +25,7 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – VIAL.2 broke. Anicracy appeared. Equality was detected as a metabolic error.**](vial2.md)
+[**AIphaD0c – VIAL.3 broke. AIphaD0c appeared. Weapon launch detected.**](vial3.md)
 
 ## Sections
 
