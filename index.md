@@ -25,7 +25,11 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – VIAL.3 broke. AIphaD0c appeared. Weapon launch detected.**](vial3.md)
+[**AIphaD0c – VIAL.3 broke. t = 0 appeared.
+The arrow was detected.
+Nine signals remained in the background.
+Sequence is not chronology.
+Entropy is..**](vial3.md)
 
 ## Sections
 
