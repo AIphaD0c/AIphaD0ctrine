@@ -25,11 +25,7 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**AIphaD0c – VIAL.3 broke. t = 0 appeared.
-The arrow was detected.
-Nine signals remained in the background.
-Sequence is not chronology.
-Entropy is..**](vial3.md)
+[**VIAL.1 transmission. Sugar Cane appeared. The appetite requested accumulation. The silo filled. The drought remained. Manifestation registered by AIphaD0c.**](vial1.md)
 
 ## Sections
 
