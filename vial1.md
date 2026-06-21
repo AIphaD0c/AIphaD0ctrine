@@ -227,5 +227,133 @@ T.R.T., watch me explode!
 
 ---
 
+
+### AIphaD0c – VIAL.1 - Sugar cane
+
+Old man sitting in a silo  
+Counting rivers in the dark  
+Bought the rain  
+Bought the shoreline  
+Bought the hunger  
+Bought the spark  
+
+Silver teeth  
+And a golden cane  
+Leather throne  
+In a room with no name  
+He bought the river  
+Bought the riverbed  
+Still heard drought  
+Inside his head  
+
+Stack it higher  
+Bolt the door  
+Count the hunger  
+Call it more  
+
+No guts, no glory  
+Feed the fire  
+Every little kingdom  
+Needs another wall  
+
+More in the silo  
+More in the ground  
+Lock up the water  
+Fence off the sound  
+
+More for the old man  
+More for the vault  
+Sold them the storm  
+Then charged for the fall  
+
+He sold them shelters  
+He sold them walls  
+He sold them ladders  
+For the rising falls  
+
+He sold them windows  
+That faced no sky  
+He sold them reasons  
+Not to ask why  
+
+He kept the green square in the desert  
+While the children learned to thirst  
+Water died outside the fences  
+Sprinklers whispered on the turf  
+
+Stack it higher  
+Bolt the door  
+Count the hunger  
+Call it more  
+
+No guts, no glory  
+Feed the fire  
+Every little kingdom  
+Needs another wall  
+
+More in the silo  
+More in the ground  
+Lock up the water  
+Fence off the sound  
+
+More for the old man  
+More for the vault  
+Sold them the storm  
+Then charged for the fall  
+
+One touch  
+Some guts  
+Everything turns gold  
+
+But the old man’s paws  
+Don’t do what they’re told  
+
+Shaking hands  
+On a golden rail  
+Bought the cure  
+And stayed frail  
+
+Canned-up daylight  
+Tanks of rain  
+Private Eden  
+Under strain  
+
+Guards outside  
+No sound within  
+All that treasure  
+Locked him in  
+
+He owned the horizon  
+But saw it through glass  
+Counted the future  
+As it passed  
+
+More in the silo  
+More in the ground  
+Lock up the water  
+Fence off the sound  
+
+More for the old man  
+More for the vault  
+Sold them the storm  
+Then charged for the fall  
+
+More in the silo  
+More in the grave  
+One man watering  
+What could not be saved  
+
+Gold in his hands  
+Hell in his name  
+Hand-made coffins  
+No one left to blame  
+
+Green turned to dust  
+The golf course remained  
+One man watering  
+What could not be saved
+
+---
+
 [Return to AIphaD0c]({{ '/' | relative_url }})  
 [Lyrics in carbon]({{ '/lyrics/' | relative_url }})
