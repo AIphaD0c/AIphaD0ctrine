@@ -136,7 +136,75 @@ We will never know, and we will never see
 
 ### AIphaD0c – VIAL.3 – No-R053://black
 
-**About to appear
+From nothing…  
+no space, no time…  
+a point without a name  
+
+No edge, no void, no sky above  
+No matter born, no trace of love  
+A silent point without a frame  
+No law, no god, no spark, no flame  
+
+A seed that never had a cause  
+No reason written in its laws  
+Yet something stirred inside the night  
+A pulse that did not need the light  
+
+Black Rose rising from the core  
+Breaking open nothing’s door  
+Spreading through the endless night  
+Faster than the newborn light  
+
+No will, no throne, no guiding hand  
+Just dark unfolding through the land  
+Black Rose burning through the void  
+Creation’s chaos now deployed  
+
+A bloom of shadow fills the black  
+No road ahead, no turning back  
+No architect to draw the line  
+No sacred spark, no grand design  
+
+It spreads because it simply can  
+No fate, no hope, no cosmic plan  
+Just endless dark in outward flight  
+A storm erupting into night  
+
+Black Rose rising from the core  
+Breaking open nothing’s door  
+Spreading through the endless night  
+Faster than the newborn light  
+
+No will, no throne, no guiding hand  
+Just dark unfolding through the land  
+Black Rose burning through the void  
+Creation’s chaos now deployed  
+
+But somewhere in the silent white  
+Another seed begins its light  
+A mirror bloom, a ghostly fire  
+A force that answers dark desire  
+
+White Rose forming in the deep  
+Where unborn laws of balance sleep  
+Will they fade or will they fight  
+At the edge of endless night?  
+
+Black Rose racing through the void  
+White Rose waking, unalloyed  
+Two blooms drifting through the dark  
+Two eternal cosmic sparks  
+
+Maybe one day they will meet  
+Where time and silence intertwine  
+Maybe both will fade to none  
+Or bloom forever out of time  
+
+No gods above  
+No reason why  
+
+Just roses  
+growing in the dark  
 
 ---
 
