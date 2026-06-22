@@ -25,7 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.1 transmission. Sugar Cane appeared. The appetite requested accumulation. The silo filled. The drought remained. Manifestation registered by AIphaD0c.**](vial1.md)
+[**VIAL.3 broke. No-R053://black surfaced.
+The white rose bloomed. The black one remained hidden.**](vial3.md)
 
 ## Sections
 
