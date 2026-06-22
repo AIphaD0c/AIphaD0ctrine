@@ -210,7 +210,7 @@ growing in the dark
 
 ### AIphaD0c – VIAL.3 – FREE_ZED_HORIZON
 
-**About to appear**
+**About to appear.**
 
 ---
 
