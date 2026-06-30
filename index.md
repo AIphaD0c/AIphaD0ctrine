@@ -26,7 +26,7 @@ Tracks surface.
 Signals are detected.
 
 [**VIAL.2 broke. Heat Without Heirs appeared.
-The heat remained. The heirs did not.⁠**](vial2.md)
+The heat remained. The heirs did not.⁠**](vial2.html)
 
 ## Sections
 
