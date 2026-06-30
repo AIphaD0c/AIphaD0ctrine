@@ -151,7 +151,7 @@ Fade on the last repeating line, slow and hollow, like consciousness itself is s
 
 ---
 
-### AIphaD0c - VIAL.2 - Heat without heirs
+###AIphaD0c - VIAL.2 - Heat without heirs
 
 Heat under skin, fear in the bone  
 Body made many, still dies alone  
