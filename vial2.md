@@ -150,6 +150,100 @@ I’ll never get used to this nightmare made real…
 Fade on the last repeating line, slow and hollow, like consciousness itself is suffocating.  
 
 ---
+### AIphaD0c - VIAL.2 - Heat without heirs
+
+Heat under skin, fear in the bone  
+Body made many, still dies alone  
+
+Want in the blood, need in the nerves  
+The old drive wakes, the old drive serves  
+
+No heir!  
+
+Mouth found mouth, teeth found skin  
+Sweat gave orders from deep within  
+
+Love wore a halo over animal meat  
+Blood kept marching down a dead-end street  
+
+Need under skin, fear closing in  
+Drive still lit, no heir within  
+
+Bone to bone, breath to breath  
+The old machine still bargaining with death  
+
+Heat without heirs, fire in the veins  
+Hands hit the ceiling, nothing remains  
+
+Heat without heirs, kiss like a dare  
+Bodies go forward, the line goes nowhere  
+
+They burn like life, they move like prayer  
+The need keeps running  
+Heat without heirs  
+
+Rooms turned blue in the midnight glow  
+Skin asked questions, the screen said no  
+
+Beds stayed warm, lines ran cold  
+The body kept asking what the blood once told  
+
+Then came the bowl, the leash by the chair  
+A smaller heartbeat for the need still there  
+
+They fed the hunger, they named it care  
+Held the creature close and vanished there  
+
+Need under skin, fear closing in  
+Drive still lit, no heir within  
+
+Care in the hands, milk in the dream  
+The need moved sideways out of the stream  
+
+Heat without heirs, fire in the veins  
+Hands hit the ceiling, nothing remains  
+
+Heat without heirs, kiss like a dare  
+Bodies go forward, the line goes nowhere  
+
+They burn like life, they move like prayer  
+The need keeps running  
+Heat without heirs  
+
+Under the lamp, the dam lay still  
+Pink feet moved where the room grew chill  
+
+Ribbon framed, champion named  
+Milk in the fur, stamp on the claim  
+
+Her line continued, their line decayed  
+The nursing instinct fired, no heir made  
+
+Her line!  
+Their decay!  
+Instinct fired!  
+No heir made!  
+
+Heat without heirs, fire in the veins  
+Hands hit the ceiling, nothing remains  
+
+Heat without heirs, kiss like a dare  
+Bodies go forward, the line goes nowhere  
+
+They burned like life, they moved like prayer  
+They fed the flame, but left no heir  
+
+Heat without heirs  
+The need keeps running  
+Heat without heirs  
+
+The pet line continued  
+The human line did not  
+
+Heat under skin  
+No heir made  
+
+---
 
 ### AIphaD0c – VIAL.2 – Mammal revolution
 
