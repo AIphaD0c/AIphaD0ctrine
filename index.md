@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.3 broke. No-R053://black surfaced.
-The white rose bloomed. The black one remained hidden.**](vial3.md)
+[**VIAL.2 broke. Heat Without Heirs appeared.
+The heat remained. The heirs did not.⁠**](vial2.md)
 
 ## Sections
 
