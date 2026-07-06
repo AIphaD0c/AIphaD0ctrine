@@ -210,7 +210,43 @@ growing in the dark
 
 ### AIphaD0c – VIAL.3 – FREE_ZED_HORIZON
 
-**About to appear.**
+Cut the cord!  
+
+I wanna gaze at my navel, my eternal scar  
+The umbilical tie, the remnant of who we are  
+A feeding line severed, a memory etched in skin  
+Linked to the mother who tossed me out, let the abandonment begin
+
+Cut the cord!  
+Cut the cord!  
+
+She cut the cord and walked away, left me in the cold  
+A hollow ache inside, a story never told  
+Longing pulls like gravity, a black hole in my chest  
+Hate simmers underneath, no peace, no rest  
+Turning inward now, my world’s just me and mine  
+Ego rules the throne, self-pity’s my design  
+Wallowing in shadows, drowning in my tears  
+Nobody gets it, nobody hears my fears  
+
+I reach for the stars, claw beyond the void  
+Dreaming of escape, but reality’s annoyed  
+Universe don’t care, not a damn about my plight  
+No star sheds a tear, no comet lights my night  
+When I shatter at last, dust in the cosmic wind  
+Orbiting the edge where the event horizon grins  
+Pulled into the crush, the singularity’s call  
+Becoming one with nothing, swallowed by it all  
+
+Cut the cord!  
+Cut the cord!  
+
+Alone in the core, singular and still  
+The nebula smirks, a mocking cosmic thrill  
+Nothing matters now, singularities cave in  
+Everything cools down, freezes up, and ends  
+
+Cut the cord!  
 
 ---
 
