@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.2 broke. Heat Without Heirs appeared.
-The heat remained. The heirs did not.⁠**](vial2.html)
+[**VIAL.3 broke. FREE_ZED_HORIZON appeared.
+The signal continued.⁠**](vial3.html)
 
 ## Sections
 
