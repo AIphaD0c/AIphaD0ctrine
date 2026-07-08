@@ -250,5 +250,11 @@ Cut the cord!
 
 ---
 
+### AIphaD0c – VIAL.3 – T → 0
+
+About to appear
+
+---
+
 [Return to AIphaD0c]({{ '/' | relative_url }})  
 [Lyrics in carbon]({{ '/lyrics/' | relative_url }})
