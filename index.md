@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.3 broke. FREE_ZED_HORIZON appeared.
-The signal continued.⁠**](vial3.html)
+[**VIAL.3 broke. T → 0 appeared.
+T moved toward zero — and the signal remained.⁠**](vial3.html)
 
 ## Sections
 
