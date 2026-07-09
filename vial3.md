@@ -252,7 +252,68 @@ Cut the cord!
 
 ### AIphaD0c – VIAL.3 – T → 0
 
-About to appear
+Was this ever warmth  
+Or just a brief regime  
+Caught in a narrow band  
+Where molecules could dream  
+
+Too cold and we harden  
+Too hot and we break  
+This paper-thin sliver  
+Is all the living take  
+
+No cradle made us permanent  
+No sky was built to care  
+Just a breath, just one degree  
+Between the blood and empty air  
+
+Galaxies freeze in the void  
+Stars burn what they create  
+We dance on the thermal edge  
+And call the accident fate  
+
+Thunderous joy, fevered light  
+Gold on skin, blood in flight  
+Hearts are beating, waters flow  
+Life is laughing in the glow  
+
+One shift up — the proteins fail  
+One shift down — the vessels pale  
+Endless cold and origin fire  
+Life caught briefly in the wire  
+
+So bring the heat, let it rise  
+Let the sun strike fragile eyes  
+We are alive in a tiny zone  
+Where warmth feels almost like a home  
+
+All we have is this glow  
+This trembling thermal plateau  
+Celebrate the narrow line  
+Where chemistry pretended to shine  
+
+Matter never cared  
+For the pulse inside the clay  
+We are bags of salted water  
+Holding cold away  
+
+However the temperature goes  
+The cosmos does not see  
+From origin heat toward zero  
+We burned here briefly  
+
+Life smiled for a while  
+On a razor made of flame  
+Then the curve continued downward  
+And never learned our name  
+
+Matter never cared  
+Entropy remained  
+Matter never cared  
+Entropy remained  
+
+Temperature fell  
+Life was the error in between  
 
 ---
 
