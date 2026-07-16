@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.3 broke. T → 0 appeared.
-T moved toward zero — and the signal remained.⁠**](vial3.html)
+[**VIAL.4 broke. Ctrl + Alt + Man appeared.
+The command was accepted. The sender remained null.⁠**](vial4.html)
 
 ## Sections
 
