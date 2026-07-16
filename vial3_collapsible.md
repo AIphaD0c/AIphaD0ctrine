@@ -13,8 +13,12 @@
 
 ---
 
-<details>
-<summary><strong>AIphaD0c – VIAL.3 - AIphaD0c</strong></summary>
+---
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.3 - AIphaD0c</strong></summary>
+
+  <div markdown="1">
 
 Fun fact that don’t matter, the matter is black matter  
 We don’t need no atoms, let the dark energy scatter  
@@ -68,14 +72,17 @@ Scatter, daddylover, scatter
 Scatter, son of matter, scatter  
 
 The matter… black matter…  
-Scatter… scatter… scatter…  
+Scatter… scatter… scatter…
+
+  </div>
+</details>
 
 ---
 
-</details>
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.3 - t=0</strong></summary>
 
-<details>
-<summary><strong>AIphaD0c – VIAL.3 - t=0</strong></summary>
+  <div markdown="1">
 
 From Planck time, t = 0  
 Singularity bursts, inflation ignites  
@@ -134,14 +141,17 @@ But with eternal, irreversible
 Dilution…  
 Dilution…  
 Dilution…  
-We will never know, and we will never see  
+We will never know, and we will never see
+
+  </div>
+</details>
 
 ---
 
-</details>
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.3 – No-R053://black</strong></summary>
 
-<details>
-<summary><strong>AIphaD0c – VIAL.3 – No-R053://black</strong></summary>
+  <div markdown="1">
 
 From nothing…  
 no space, no time…  
@@ -211,14 +221,17 @@ No gods above
 No reason why  
 
 Just roses  
-growing in the dark  
+growing in the dark
+
+  </div>
+</details>
 
 ---
 
-</details>
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.3 – FREE_ZED_HORIZON</strong></summary>
 
-<details>
-<summary><strong>AIphaD0c – VIAL.3 – FREE_ZED_HORIZON</strong></summary>
+  <div markdown="1">
 
 Cut the cord!  
 
@@ -256,14 +269,17 @@ The nebula smirks, a mocking cosmic thrill
 Nothing matters now, singularities cave in  
 Everything cools down, freezes up, and ends  
 
-Cut the cord!  
+Cut the cord!
+
+  </div>
+</details>
 
 ---
 
-</details>
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.3 – T → 0</strong></summary>
 
-<details>
-<summary><strong>AIphaD0c – VIAL.3 – T → 0</strong></summary>
+  <div markdown="1">
 
 Was this ever warmth  
 Or just a brief regime  
@@ -326,12 +342,12 @@ Matter never cared
 Entropy remained  
 
 Temperature fell  
-Life was the error in between  
+Life was the error in between
+
+  </div>
+</details>
 
 ---
 
 [Return to AIphaD0c]({{ '/' | relative_url }})  
 [Lyrics in carbon]({{ '/lyrics/' | relative_url }})
-
-</details>
-
