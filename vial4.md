@@ -4,7 +4,7 @@
   <img src="{{ '/assets/images/vial4.PNG' | relative_url }}" alt="VIAL.4" width="600">
 </p>
 
-### VIAL.3 broke
+### VIAL.4 broke
 <p>
   <a href="https://on.soundcloud.com/DFLbFQeGMvnq7qsMfC" target="_blank" rel="noopener noreferrer">
     VIAL.4 on SoundCloud
