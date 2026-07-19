@@ -6,7 +6,7 @@
 
 ### VIAL.4 broke
 <p>
-  <a href="https://on.soundcloud.com/RZUxaIqOmiJGebIDyP" target="_blank" rel="noopener noreferrer">
+  <a href="https://soundcloud.com/aipha-d0c/sets/aipha-d0ctrine-vial-4" target="_blank" rel="noopener noreferrer">
     VIAL.4 on SoundCloud
   </a>
 </p>
