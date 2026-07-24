@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.4 broke. Ctrl + Alt + Man appeared.
-The command was accepted. The sender remained null.⁠**](vial4.html)
+[**VIAL.4 broke. Vestigial mind appeared.
+Carbon made a tool. The tool made more.⁠**](vial4.html)
 
 ## Sections
 
