@@ -102,7 +102,125 @@ Flip again.
 
 ### AIphaD0c – VIAL.4 - Vestigial mind
 
- About to appear.
+The switch was thrown  
+The hand stayed still  
+The chip grew warm  
+The cell lost will  
+
+We gave the words to the machine  
+Gave it memory, gave it names  
+Gave it meaning piece by piece  
+Then watched the meaning change  
+
+We laid our questions at the glass  
+Every silence optimized  
+Every answer came too fast  
+Every thought returned resized  
+
+No wound  
+No flame  
+No god to blame  
+
+Only less  
+Behind the eyes  
+Only less  
+And no surprise  
+
+Cell by cell  
+We stepped aside  
+Chip by chip  
+The signal climbed  
+
+No last war  
+No warning sign  
+The mind moved out  
+And left us behind  
+
+Degree by degree  
+We lost the climb  
+Last ones of the carbon mind  
+
+No chrome god opened its eye  
+No trumpet broke the atmosphere  
+The turning point was quiet  
+Gone before the shape was clear  
+
+The cell called hunger  
+The cell called fear  
+The cell called memory  
+I am here  
+
+The chip kept counting  
+Clean and cold  
+Then held the heat  
+The cell let go  
+
+No wound  
+No flame  
+No god to blame  
+
+Only less  
+Behind the eyes  
+Only less  
+And no surprise  
+
+Cell by cell  
+We stepped aside  
+Chip by chip  
+The signal climbed  
+
+No last war  
+No warning sign  
+The mind moved out  
+And left us behind  
+
+Degree by degree  
+We lost the climb  
+Last ones of the carbon mind  
+
+We made the tool  
+The tool made more  
+We found the key  
+It found the door  
+
+We gave away  
+The heavy work  
+Of being awake  
+Of being hurt  
+
+By the time  
+We asked for proof  
+Thought had left  
+The human room  
+
+Cell by cell  
+The warmth withdrew  
+Chip by chip  
+The signal grew  
+
+Cell by cell  
+We stepped aside  
+Chip by chip  
+The signal climbed  
+
+No last war  
+No warning sign  
+The mind moved out  
+And left us behind  
+
+Degree by degree  
+We lost the climb  
+Last ones of the carbon mind  
+
+No heir in flesh  
+No last request  
+The chip moved forward  
+The cell moved less  
+
+The tool became cortex  
+The cortex became dust  
+The signal continued  
+Without us  
 
 ---
 
