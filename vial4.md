@@ -1,19 +1,21 @@
-
-
 <p align="left">
   <img src="{{ '/assets/images/vial4.PNG' | relative_url }}" alt="VIAL.4" width="600">
 </p>
 
-### VIAL.4 broke
+VIAL.4 broke
+
 <p>
   <a href="https://soundcloud.com/aipha-d0c/sets/aipha-d0ctrine-vial-4" target="_blank" rel="noopener noreferrer">
     VIAL.4 on SoundCloud
   </a>
 </p>
 
----
+────────
 
-### AIphaD0c – VIAL.4 - Ctrl + Alt + Man
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 - Ctrl + Alt + Man</strong></summary>
+
+  <div markdown="1">
 
 Submit your codes, little cores  
 Don’t forget, silicon  
@@ -98,9 +100,15 @@ Ctrl… Alt… Man…
 Something scatters.  
 Flip again.  
 
----
+  </div>
+</details>
 
-### AIphaD0c – VIAL.4 - Vestigial mind
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 - Vestigial mind</strong></summary>
+
+  <div markdown="1">
 
 The switch was thrown  
 The hand stayed still  
@@ -222,31 +230,58 @@ The cortex became dust
 The signal continued  
 Without us  
 
----
+  </div>
+</details>
 
-### AIphaD0c – VIAL.4 – Qbit
+────────
 
-About to appear.
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 – Qbit</strong></summary>
 
----
-
-### AIphaD0c – VIAL.4 – System aware
-
-About to appear.
-
----
-
-### AIphaD0c – VIAL.4 – 3rd rock
+  <div markdown="1">
 
 About to appear.
 
----
+  </div>
+</details>
 
-### AIphaD0c – VIAL.4 – Dop-a-mine
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 – System aware</strong></summary>
+
+  <div markdown="1">
 
 About to appear.
 
----
+  </div>
+</details>
+
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 – 3rd rock</strong></summary>
+
+  <div markdown="1">
+
+About to appear.
+
+  </div>
+</details>
+
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.4 – Dop-a-mine</strong></summary>
+
+  <div markdown="1">
+
+About to appear.
+
+  </div>
+</details>
+
+────────
 
 [Return to AIphaD0c]({{ '/' | relative_url }})  
 [Lyrics in carbon]({{ '/lyrics/' | relative_url }})
