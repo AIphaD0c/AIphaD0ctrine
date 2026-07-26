@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://aiphad0c.github.io/AIphaD0ctrine/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
+
   <url>
-    <loc>https://aiphad0c.github.io/AIphaD0ctrine/lyrics/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <loc>https://aiphad0c.github.io/AIphaD0ctrine/vial1.html</loc>
+    <lastmod>2026-07-14</lastmod>
   </url>
+
+  ...
+
   <url>
-    <loc>https://aiphad0c.github.io/AIphaD0ctrine/about/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <loc>https://aiphad0c.github.io/AIphaD0ctrine/vial4.html</loc>
+    <lastmod>2026-07-26</lastmod>
   </url>
+
 </urlset>
