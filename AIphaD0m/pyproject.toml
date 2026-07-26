@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aiphad0m"
+version = "0.1.0"
+description = "Engine-neutral orchestration skeleton for the AIphaD0m experiential domain"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["PyYAML>=6.0"]
+
+[project.scripts]
+aiphad0m = "aiphad0m.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
