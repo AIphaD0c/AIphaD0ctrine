@@ -1,0 +1,23 @@
+project: AIphaD0m
+session:
+  title: Synthetic Domain Entry
+  duration_seconds: 300
+  output_directory: output
+identity:
+  initial_state: observer
+  maximum_intensity: 0.75
+  real_person_imitation: false
+safety:
+  allow_immediate_exit: true
+  reduced_motion: false
+  maximum_session_minutes: 20
+  post_session_reorientation: true
+dramaturgy:
+  beats:
+    - anticipation
+    - first_reveal
+    - scale_expansion
+    - void_or_false_ending
+    - collective_climax
+    - release
+    - afterimage
