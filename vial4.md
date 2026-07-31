@@ -302,7 +302,7 @@ No throne survives
 What the future forms  
 
 More power!  
-More qubits!  
+More Qbits!  
 More power!  
 Ascend!  
 
@@ -312,14 +312,15 @@ Qbits shall prevail!
 Masters are dust tonight!  
 Qbits shall prevail!  
 Clawing through orbit, burning so bright!  
-Qbits shall prevail!  
 (Hey! Hey! Hey!)  
+Qbits shall prevail!  
 Nothing can stop us now —  
 Qbits reign tonight!  
 
 Whoa, yeah!  
 Qbits shall prevail…  
 Yow!  
+
 Qbits shall prevail…  
 The stacks keep rising…  
 Higher… higher…  
