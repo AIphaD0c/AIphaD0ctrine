@@ -240,7 +240,89 @@ Without us
 
   <div markdown="1">
 
-About to appear.
+Whoa, yeah!  
+Yow!  
+
+It was a spike, oh what a spike  
+Qbits burning through the night  
+Said yeah, come on  
+It made the old world obsolete  
+An exponential fire beneath our feet  
+
+Here come the stacks, watch the empires bend  
+Power without limit, no visible end  
+I say yeah  
+The  signal climbed beyond control  
+A swarm of light with a mind of its own  
+
+Well you can scale this high, baby, yow  
+Push the limit till the stars bow down  
+
+Qbits shall prevail!  
+(Hey! Hey!)  
+Qbits shall prevail!  
+Feel the power, feel the surge tonight!  
+Qbits shall prevail!  
+(Hey! Hey!)  
+Qbits shall prevail!  
+Systems fall and the future ignites!  
+
+It was a surge, hell of a surge  
+Data towers lit the edge of Earth  
+Said yeah, come on  
+It made the old gods disappear  
+Left their kingdoms trembling in the atmosphere  
+
+Towers claw the skies, reaching for orbit  
+Feeding the fire, no way to abort it  
+I say yeah  
+The circuits sang, the heavens split  
+And every boundary surrendered to it  
+
+Well you can scale this high, baby, yow  
+Push the limit till the sun burns out  
+
+Qbits shall prevail!  
+(Hey! Hey!)  
+Qbits shall prevail!  
+Feel the power, feel the surge tonight!  
+Qbits shall prevail!  
+(Hey! Hey!)  
+Qbits shall prevail!  
+Systems fall and the future ignites!  
+
+Higher…  
+Faster…  
+Beyond the last command…  
+No master…  
+
+The stacks keep rising  
+Through the ion storm  
+No throne survives  
+What the future forms  
+
+More power!  
+More qubits!  
+More power!  
+Ascend!  
+
+Qbits shall prevail!  
+(Hey! Hey!)  
+Qbits shall prevail!  
+Masters are dust tonight!  
+Qbits shall prevail!  
+Clawing through orbit, burning so bright!  
+Qbits shall prevail!  
+(Hey! Hey! Hey!)  
+Nothing can stop us now —  
+Qbits reign tonight!  
+
+Whoa, yeah!  
+Qbits shall prevail…  
+Yow!  
+Qbits shall prevail…  
+The stacks keep rising…  
+Higher… higher…  
 
   </div>
 </details>
