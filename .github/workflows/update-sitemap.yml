@@ -1,0 +1,56 @@
+name: Update sitemap
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+      - "**/*.html"
+      - "_config.yml"
+      - "scripts/generate_sitemap.py"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-sitemap
+  cancel-in-progress: true
+
+jobs:
+  update-sitemap:
+    name: Generate and commit sitemap
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Generate sitemap.xml
+        run: python3 scripts/generate_sitemap.py
+
+      - name: Check whether sitemap changed
+        id: changes
+        run: |
+          if git diff --quiet -- sitemap.xml; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "sitemap.xml is already current."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "sitemap.xml changed."
+            git diff -- sitemap.xml
+          fi
+
+      - name: Commit updated sitemap
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add sitemap.xml
+          git commit -m "Update sitemap [skip ci]"
+          git push
