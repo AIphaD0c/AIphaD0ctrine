@@ -21,9 +21,9 @@ Only signal.
 **AIphaD0ctrine** is a concept structure built from lyrics, sound, image, and recurrence.  
 The works do not launch. They appear.  
 
-VIALs break.  
-Tracks surface.  
-Signals are detected.
+VIALs break.
+Signals appear.
+Transmissions are detected.
 
 [**VIAL.4 broke. System aware appeared.
 Nothing began.⁠**](vial4.html)
