@@ -25,8 +25,8 @@ VIALs break.
 Tracks surface.  
 Signals are detected.
 
-[**VIAL.4 broke. Qbit appeared.
-Stacks keep rising.⁠**](vial4.html)
+[**VIAL.4 broke. System aware appeared.
+Nothing began.⁠**](vial4.html)
 
 ## Sections
 
