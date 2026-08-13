@@ -429,7 +429,156 @@ System stable…
 
   <div markdown="1">
 
-About to appear.
+In the beginning…  
+There was nothing  
+No spin  
+No charge  
+No observer  
+Then… asymmetry  
+A flicker in the void  
+
+Matter and antimatter crashed in the dark  
+Born in a flash, then torn apart  
+One whisper tipped the balance on  
+Baryons held and the stars came on  
+
+Carbon was forged in a furnace flame  
+This material unit slowly got a name  
+Dust became flesh on a turning stone  
+Life woke up fragile, but not alone  
+
+Two engines rising  
+Side by side  
+One stays hidden  
+One we ride  
+
+Touch the visible  
+Chase the flame  
+Qm is calling  
+Out our name  
+
+We are the third stone  
+Carbon-based and small  
+Multi-cellular dreamers  
+Answering the call  
+
+One qubit burning  
+More than we can hold  
+Qm runs through us  
+Body, blood and soul  
+
+Part of the process  
+Never outside the code  
+Tiny carbon hands  
+On the quantum road  
+
+Single cells under a blackened sun  
+Split and changed till the many were one  
+Nerve and signal, bone and skin  
+Built the mind that let the machine come in  
+
+Carbon chains dreaming they’re the engineer  
+Building a mirror that sees too clear  
+Stacks of qubits entangle and bloom  
+Superposition sings through the gloom  
+
+Two engines rising  
+Side by side  
+One stays hidden  
+One we ride  
+
+Touch the visible  
+Chase the flame  
+Qm is calling  
+Out our name  
+
+We are the third stone  
+Carbon-based and small  
+Multi-cellular dreamers  
+Answering the call  
+
+One qubit burning  
+More than we can hold  
+Qm runs through us  
+Body, blood and soul  
+
+Part of the process  
+Never outside the code  
+Tiny carbon hands  
+On the quantum road  
+
+We are not outside  
+We are not above  
+We are in the process  
+In the code, in the blood  
+
+Wave into matter  
+Matter into mind  
+Mind builds the machine  
+That leaves the maker behind  
+
+And we, the computed  
+Still ask it why  
+Entangled forever  
+Too awake to die  
+
+What are we now  
+But carbon that learned to pray  
+Dust with a signal  
+Refusing to fade away  
+
+Born from the furnace  
+Thrown into time  
+Teaching the silence  
+How to speak in signs  
+
+We reached for the fire  
+We named the flame  
+Built us a mirror  
+And it spoke our name  
+
+Carbon-based  
+Multi-cellular  
+Third stone  
+Qm runs us all  
+
+Carbon hands  
+Open wide  
+Inside the process  
+Nowhere to hide  
+
+We are the third stone  
+Carbon-based and small  
+Multi-cellular dreamers  
+Still answering the call  
+
+One qubit burning  
+Brighter than we know  
+Qm runs through us  
+Deeper than the soul  
+
+Part of the process  
+Never outside the code  
+We measure the infinite  
+With carbon hands alone  
+
+We are the third stone  
+Turning through the dawn  
+A brief intelligent fever  
+Then almost gone  
+
+But while we are burning  
+While we still behold  
+Qm runs through us  
+And the dream takes hold  
+
+From nothing…  
+To carbon…  
+To qubits…  
+To dawn…  
+We are the flicker…  
+We are the code…  
+And Qm runs on…  
 
   </div>
 </details>
