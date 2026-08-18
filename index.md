@@ -25,8 +25,8 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**VIAL.4 broke. 3rd rock appeared.
-Part of the process. Never outside the code.⁠**](vial4.html)
+[**VIAL.4 broke. D0p-a-mine appeared.
+The flame was already lit.⁠**](vial4.html)
 
 ## Sections
 
