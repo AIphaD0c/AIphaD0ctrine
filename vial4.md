@@ -590,7 +590,107 @@ And Qm runs on…
 
   <div markdown="1">
 
-About to appear.
+Bored omnipotence drifting in the void  
+Moved the gas for no reason, just to feel it employed. 
+Random currents stirring, pressure waves collide. 
+A membrane trembled softly on the other side. 
+
+Bones behind the curtain started swaying in the stream  
+Vibration turned to current, chemistry took the dream  
+Molecule rivers followed, monoamines in the dance  
+Dopamine came rising, giving everything its chance  
+
+Such a lovely motion  
+Pointless, sweet and free  
+Gas keeps moving slowly  
+Through you and through me  
+
+Nerve and skin and longing  
+Temporary symmetry  
+No one at the center  
+Just a beautiful machinery  
+
+From the pointless flicker to the pleasure in the vein  
+Carbon chains are dancing, riding on the wave  
+Multi-cellular wonders thinking they’re the ones who feel  
+Only borrowed signals dressed in something briefly real  
+
+No deeper meaning hiding, no holy master plan  
+Just the universe amusing its eternal span  
+Every laugh, every hunger, every tear that falls  
+Is the bored omnipotence moving through its dolls  
+
+Such a lovely motion  
+Pointless, sweet and free  
+Gas keeps moving slowly  
+Through you and through me  
+
+Nerve and skin and longing  
+Temporary symmetry  
+No one at the center  
+Just a beautiful machinery  
+
+No purpose  
+No reason  
+Just gentle sway  
+Membrane shiver  
+Current rising  
+Consciousness at play  
+
+No heaven waiting  
+No final key  
+Just motion learning  
+How to dream chemically  
+
+And all we ever worshipped  
+May only be the flow  
+A pressure in the darkness  
+Teaching carbon how to glow  
+
+A pulse becomes a hunger  
+A hunger becomes a name  
+A name becomes a person  
+Who thinks he lit the flame  
+
+But gas was there before us  
+And gas will stay when gone  
+We are its brief expression  
+Its little midnight song  
+
+Such a lovely motion  
+Pointless, sweet and free  
+Gas keeps moving slowly  
+Forever through me  
+
+Nerve and skin and longing  
+Temporary symmetry  
+No one at the center  
+Still it feels like destiny  
+
+Such a lovely motion  
+Ancient, blind and warm  
+Pleasure made of pressure  
+Taking living form  
+
+We were never chosen  
+Never meant to be  
+Only moving matter  
+In a beautiful machinery  
+
+Gas in motion…  
+Dopamine flowing…  
+Pressure to pleasure…  
+Chemistry glowing…  
+
+No meaning…  
+Still the glow…  
+No master…  
+Just the show…  
+
+Gas keeps moving…  
+Soft and slow…  
+Through every creature…  
+Then letting go…  
 
   </div>
 </details>
