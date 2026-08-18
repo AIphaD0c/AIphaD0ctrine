@@ -62,9 +62,13 @@ def is_publishable(path: Path) -> bool:
         return False
 
     if any(part in EXCLUDED_DIRECTORIES for part in relative.parts):
-        return False
+    return False
 
-    metadata = read_front_matter(path)
+    # VIAL pages are intentionally published without front matter.
+    if re.fullmatch(r"vial\d+\.md", path.name, re.IGNORECASE):
+        return True
+
+metadata = read_front_matter(path)
 
     # Jekyll pages in this repository use front matter.
     if not metadata:
