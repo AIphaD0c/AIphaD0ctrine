@@ -55,21 +55,31 @@ def read_front_matter(path: Path) -> dict[str, str]:
 
 
 def is_publishable(path: Path) -> bool:
-    """Include Markdown pages that have Jekyll front matter."""
+    """Include published Markdown pages in the sitemap."""
     relative = path.relative_to(ROOT)
 
     if path.name in EXCLUDED_NAMES:
         return False
 
     if any(part in EXCLUDED_DIRECTORIES for part in relative.parts):
-    return False
+        return False
 
     # VIAL pages are intentionally published without front matter.
     if re.fullmatch(r"vial\d+\.md", path.name, re.IGNORECASE):
         return True
 
-metadata = read_front_matter(path)
+    metadata = read_front_matter(path)
 
+    # Other Jekyll pages in this repository use front matter.
+    if not metadata:
+        return False
+
+    # Allow an explicit sitemap exclusion when needed.
+    if metadata.get("sitemap", "").lower() in {"false", "no", "0"}:
+        return False
+
+    return True
+    
     # Jekyll pages in this repository use front matter.
     if not metadata:
         return False
