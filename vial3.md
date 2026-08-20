@@ -17,8 +17,6 @@ layout: default
 
 ---
 
----
-
 <details class="signal">
   <summary><strong>AIphaD0c – VIAL.3 - AIphaD0c</strong></summary>
 
