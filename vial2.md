@@ -1,4 +1,8 @@
-
+---
+title: "AIphaD0c – VIAL.2 | Detected manifestations"
+description: "VIAL.2 archive of AIphaD0ctrine: Wasted Time, Fatal Split, Heat Without Heirs, Mammal Revolution, and Anicracy. Lyrics in carbon. Signal in silicon."
+layout: default
+---
 
 <p align="left">
   <img src="{{ '/assets/images/vial2.PNG' | relative_url }}" alt="VIAL.2" width="600">
