@@ -1,4 +1,8 @@
-
+---
+title: "AIphaD0c – VIAL.3 | Cold cosmic manifestations"
+description: "VIAL.3 archive of AIphaD0ctrine: AIphaD0c, t=0, No-R053://black, FREE_ZED HORIZON, and T → 0. Lyrics in carbon. Signal in silicon."
+layout: default
+---
 
 <p align="left">
   <img src="{{ '/assets/images/vial3.PNG' | relative_url }}" alt="VIAL.3" width="600">
