@@ -1,3 +1,9 @@
+---
+title: "AIphaD0c – VIAL.4 | D0p-a-mine appeared"
+description: "VIAL.4 archive of AIphaD0ctrine: Ctrl + Alt + Man, Vestigial mind, Qbit, System aware, 3rd rock, and D0p-a-mine. VIAL.4 broke. D0p-a-mine appeared."
+layout: default
+---
+
 <p align="left">
   <img src="{{ '/assets/images/vial4.PNG' | relative_url }}" alt="VIAL.4" width="600">
 </p>
