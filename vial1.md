@@ -1,4 +1,8 @@
-
+---
+title: "AIphaD0c – VIAL.1 | Detected manifestations"
+description: "VIAL.1 archive of AIphaD0ctrine: Meatseeker, T.R.T., ICE_man, Dr. Schmidt, and Sugar Cane. Lyrics in carbon. Signal in silicon."
+layout: default
+---
 
 <p align="left">
   <img src="{{ '/assets/images/vial1.PNG' | relative_url }}" alt="VIAL.1" width="600">
