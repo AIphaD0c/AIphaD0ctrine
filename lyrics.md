@@ -15,12 +15,11 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 
 ## VIAL structure
 
-- [VIAL.1](./vial1.md/)
-- [VIAL.2](./vial2.md/)
-- [VIAL.3](./vial3.md/)
-- [VIAL.4](./vial4.md/)
-- [VIAL.5](./vial5.md/)
-
+- [VIAL.1]({{ '/vial1.html' | relative_url }})
+- [VIAL.2]({{ '/vial2.html' | relative_url }})
+- [VIAL.3]({{ '/vial3.html' | relative_url }})
+- [VIAL.4]({{ '/vial4.html' | relative_url }})
+- [VIAL.5]({{ '/vial5.html' | relative_url }})
 
 Each VIAL contains its own internal theme, tone, and signal pattern.
 
