@@ -1,6 +1,6 @@
 ---
 title: "AIphaD0c – VIAL.5 | Artefact"
-description: "VIAL.5 archive of AIphaD0ctrine: Artefact, Beyond the evidence, CxC, R2FAR and End Trophy (optimized, obligated). VIAL.5 broke. Artefact."
+description: "VIAL.5 archive of AIphaD0ctrine: Artefact, Beyond the Evidence, CxC, R2FAR and End Trophy (optimized, obligated). VIAL.5 broke. Artefact."
 layout: default
 ---
 
@@ -29,7 +29,7 @@ VIAL.5 broke
 ────────
 
 <details class="signal">
-  <summary><strong>AIphaD0c – VIAL.5 - Beyond the evidence</strong></summary>
+  <summary><strong>AIphaD0c – VIAL.5 - Beyond the Evidence</strong></summary>
 
   <div markdown="1">
 
