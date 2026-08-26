@@ -19,7 +19,7 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 - [VIAL.2](./vial2.md/)
 - [VIAL.3](./vial3.md/)
 - [VIAL.4](./vial4.md/)
-- [VIAL.5]
+- [VIAL.5](./vial5.md/)
 
 
 Each VIAL contains its own internal theme, tone, and signal pattern.
