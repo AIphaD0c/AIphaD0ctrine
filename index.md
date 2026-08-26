@@ -25,8 +25,9 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**VIAL.4 broke. D0p-a-mine appeared.
-The flame was already lit.⁠**](vial4.html)
+[**VIAL.5 broke. Artefact appeared.  
+No words were assigned.  
+The sequence continued.**]({{ '/vial5.html' | relative_url }})
 
 ## Sections
 
