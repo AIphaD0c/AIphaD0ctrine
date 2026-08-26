@@ -1,6 +1,6 @@
 ---
 title: "AIphaD0c – VIAL.5 | Artefact"
-description: "VIAL.5 archive of AIphaD0ctrine: Artifact, Beyond the evidence, CxC, R2FAR and End Trophy (optimized, obligated). VIAL.5 broke. Artefact."
+description: "VIAL.5 archive of AIphaD0ctrine: Artefact, Beyond the evidence, CxC, R2FAR and End Trophy (optimized, obligated). VIAL.5 broke. Artefact."
 layout: default
 ---
 
@@ -8,7 +8,7 @@ layout: default
   <img src="{{ '/assets/images/vial5.PNG' | relative_url }}" alt="VIAL.5" width="600">
 </p>
 
-VIAL.4 broke
+VIAL.5 broke
 
 <p>
   <a href="https://soundcloud.com/aipha-d0c/sets/aipha-d0ctrine-vial-5" target="_blank" rel="noopener noreferrer">
