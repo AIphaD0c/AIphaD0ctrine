@@ -25,9 +25,9 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**VIAL.5 broke. Artefact appeared.  
-No words were assigned.  
-The sequence continued.**]({{ '/vial5.html' | relative_url }})
+[**VIAL.5 broke. Beyond the Evidence appeared.  
+The carrier changed.  
+The question remained.**]({{ '/vial5.html' | relative_url }})
 
 ## Sections
 
