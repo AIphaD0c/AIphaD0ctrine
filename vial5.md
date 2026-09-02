@@ -136,7 +136,7 @@ does every witness
 learn to defend?  
 Carbon believed.  
 Silicon calculated.  
-Both refused. 
+Both refused  
 to disappear.  
 
 Some worship gods.  
