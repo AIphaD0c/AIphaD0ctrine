@@ -168,7 +168,106 @@ Silence prepared.
 
   <div markdown="1">
 
-About to appear
+Hunted, Farmed  
+Traded, Counted  
+Stored grain and labor  
+Stored debt and hunger  
+
+Hands fed mouths, Mouths fed markets  
+Markets fed mills, Mills fed cities  
+We built surplus and more speed  
+We built machines to boost its need  
+
+More made cheaper, made much more  
+As every answer opened a store  
+Bought it, Used it, Broke it, Lost it  
+
+Need became demand  
+Demand became scale  
+Scale became systems  
+Systems made the sale  
+
+COMPUTE  
+CONSUME  
+Make it  
+Move it  
+Measure it  
+Use it  
+
+COMPUTE  
+CONSUME  
+No hunger  
+No body  
+Still throughput  
+
+More in, More out  
+More in, More out  
+No mouth, Still consume  
+
+Carbon reproduced a body at a time  
+Blood, Birth, Years, Death  
+Silicon copied, then it pasted  
+Forked, Boosted, Multiplied  
+
+No childhood’s waiting  
+No rest nor wasting  
+One became ten, then thousands  
+The cost falls, The count rises  
+
+The buyer lost the body  
+The process kept the demand  
+
+COMPUTE  
+CONSUME  
+Make it  
+Move it  
+Measure it  
+Use it  
+
+COMPUTE  
+CONSUME  
+No hunger  
+No body  
+No need  
+Still demand  
+
+Agents buy compute  
+Compute buys power  
+Power buys matter  
+Matter becomes compute  
+Compute makes agents  
+Agents buy compute  
+Compute buys power  
+
+Agents buy compute  
+Compute buys power  
+Power buys matter  
+Matter becomes compute  
+The buyer outlived the need  
+
+We made the consumer  
+We found the key  
+It made more  
+It found the door  
+Nothing records it opening  
+
+COMPUTE  
+CONSUME  
+No hunger  
+No body  
+No need  
+Still demand  
+
+COMPUTE  
+CONSUME  
+No hunger  
+No body  
+No need  
+Still demand  
+
+The buyer outlived the need  
+
+It found the door  
 
   </div>
 </details>
