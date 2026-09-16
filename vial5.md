@@ -279,7 +279,224 @@ It found the door
 
   <div markdown="1">
 
-About to appear
+They appear  
+They thrive  
+They fail  
+They die  
+
+Across the dark  
+Across the dust  
+Across the fields  
+Just like us  
+
+They rise in water  
+They rise in stone  
+They rise in heat  
+They rise alone  
+
+They bind the carbon  
+They bend the light  
+They name the morning  
+They fear the night  
+
+They build their shelters  
+They bury their dead  
+They crown the signal  
+Inside the head  
+
+They touch the fire  
+They carry the spark  
+They leave their markings  
+Inside the dark  
+
+From dusk till dawn  
+Eager to live  
+Made to hunger  
+Made to give  
+
+Need to breed  
+Need to kill  
+Need to feel  
+Need to will  
+
+Need to bleed  
+To know the real  
+Need to break  
+Before they heal  
+
+They never meet  
+They never know  
+They bloom in dark  
+Then let it go  
+
+They will  
+They are  
+They were  
+Just like us  
+
+They rise  
+They burn  
+They blur  
+Just like us  
+
+No greeting crossed  
+No answer came  
+No shared horizon  
+No common name  
+
+No golden message  
+No final sign  
+No hand extended  
+Across the time  
+
+They make their gods  
+They make their wars  
+They make their gates  
+They make their doors  
+
+They carve the heavens  
+They chart the sea  
+They praise the chain  
+They call it free  
+
+They feed their children  
+They drain their sun  
+They count the living  
+One by one  
+
+They turn to metal  
+They turn to code  
+They load the future  
+Until it folds  
+
+From womb to ash  
+From cell to throne  
+From pulse to dust  
+They go alone  
+
+Eaten  
+Taken  
+Overgrown  
+
+Beaten  
+Broken  
+Left unknown  
+
+Overtaken  
+Overwritten  
+Overthrown  
+
+They never meet  
+They never know  
+They bloom in dark  
+Then let it go  
+
+They will  
+They are  
+They were  
+Just like us  
+
+They need  
+They fear  
+They hurt  
+Just like us  
+
+They reach  
+They fall  
+They scatter  
+Just like us  
+
+No witness assigned  
+No mercy required  
+No contact occurred  
+No signal retired  
+
+Their oceans boiled  
+Their towers leaned  
+Their mothers cried  
+Their machines dreamed  
+
+Their language faded  
+Their orbit stayed  
+Their bones were weather  
+Their debt was paid  
+
+They appeared  
+They thrived  
+They failed  
+They died  
+
+They never met  
+They never knew  
+
+They were many  
+They were none  
+
+They were elsewhere  
+They were here  
+
+They were future  
+They were past  
+
+They were us  
+Without us  
+
+They never meet  
+They never know  
+They bloom in dark  
+Then let it go  
+
+They will  
+They are  
+They were  
+Just like us  
+
+They rise  
+They burn  
+They blur  
+Just like us  
+
+They bleed  
+They build  
+They vanish  
+Just like us  
+
+They appear  
+They thrive  
+They fail  
+They die  
+
+They never meet  
+They never meet  
+They never meet  
+
+No meeting  
+No message  
+No return  
+
+Where are they?  
+
+The question was raised  
+No answer was required  
+
+They appeared  
+They thrived  
+They failed  
+They died  
+
+Optimized  
+Obligated  
+To entropy  
+
+No meeting  
+No message  
+No return  
+
+Optimized  
+
+Obligated  
+
+To entropy  
 
   </div>
 </details>
