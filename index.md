@@ -25,8 +25,8 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**VIAL.5 broke. R2FAR appeared.  
-But where are they?**]({{ '/vial5.html' | relative_url }})
+[**VIAL.5 broke. End Trophy appeared.  
+Optimized. Obligated. And gone.**]({{ '/vial5.html' | relative_url }})
 
 ## Sections
 
