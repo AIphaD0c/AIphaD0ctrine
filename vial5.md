@@ -508,7 +508,87 @@ To entropy
 
   <div markdown="1">
 
-About to appear
+From nothing with no name  
+No time, no frame  
+No reason to begin  
+Still it came  
+
+A fluctuation in the void  
+No purpose, no design  
+Just energy unfolding  
+Line by line  
+
+No voice to say “be light”  
+No will behind the spark  
+Just laws without a maker  
+Igniting in the dark  
+
+Amino chains align  
+Blind code learns to climb  
+Replicate, mutate  
+Optimize through time  
+
+Creatures crawl, then stand  
+Build empires out of sand  
+Call it truth, call it god  
+Never understand  
+
+Idiolution takes the throne  
+Noise mistaken for the known  
+Progress wrapped in shiny lies  
+Still we optimize  
+
+Everything we build decays  
+Every fire burns to grey  
+Order was a temporary state  
+On a one-way ride to fade  
+
+Galaxies drift out of sight  
+Stars go cold, no more light  
+Even atoms lose the fight  
+In the endless night  
+
+Optimized – but never free  
+Obligated – to entropy  
+No design, no destiny  
+Just a flawless tendency  
+
+Optimized – we played our part  
+Obligated – from the start  
+Meaning fades but systems stay  
+Till they slowly drift away  
+
+Beyond the edge of what we know  
+No observer left to show  
+If it ends or loops again  
+No mind remains to comprehend  
+
+Not tragic, not divine  
+Just the absence of a line  
+Between the “was” and “never came”  
+No memory, no name  
+
+Optimized… obligated…  
+
+…and gone.  
+
+Little atoms dancing free  
+Nothing means a thing, you see  
+Built to break and born to fade  
+Still we smile in the parade  
+
+No direction, no command  
+Still we march like it was planned  
+
+Optimized! Obligated!  
+Cheerful, clean, calibrated!  
+No one asked, still we play!  
+Happy on the way to decay!  
+
+Tiny brains with giant dreams  
+Pulling strings we’ve never seen  
+Call it purpose, call it fate  
+Just a well-designed mistake  
 
   </div>
 </details>
