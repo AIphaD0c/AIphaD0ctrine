@@ -25,7 +25,7 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**PETA_FAB
+PETA_FAB
 
 PETA_FAB is not a factory.
 
@@ -41,7 +41,7 @@ A reconstructed fabrication layer at peta-scale.
 t < 0 → t = 0 → T → 0
 
 Nothing is made.
-Everything is observed.**]({{ '/vial5.html' | relative_url }})
+Everything is observed.
 
 ## Sections
 
