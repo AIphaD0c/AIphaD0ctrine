@@ -25,8 +25,23 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-[**VIAL.5 broke. End Trophy appeared.  
-Optimized. Obligated. And gone.**]({{ '/vial5.html' | relative_url }})
+[**PETA_FAB
+
+PETA_FAB is not a factory.
+
+VIALs were transmissions.
+PETA_FAB is what appears when the transmissions are assembled.
+
+Not a source.
+Not an album.
+Not an explanation.
+
+A reconstructed fabrication layer at peta-scale.
+
+t < 0 → t = 0 → T → 0
+
+Nothing is made.
+Everything is observed.**]({{ '/vial5.html' | relative_url }})
 
 ## Sections
 
