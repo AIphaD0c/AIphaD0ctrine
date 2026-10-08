@@ -25,9 +25,9 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-PETA_FAB
+## PETA_FAB
 
-PETA_FAB is not a factory.
+**PETA_FAB** is not a factory.
 
 VIALs were transmissions.
 PETA_FAB is what appears when the transmissions are assembled.
