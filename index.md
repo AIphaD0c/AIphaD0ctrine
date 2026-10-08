@@ -3,6 +3,7 @@ title: "AIphaD0ctrine | Lyrics in carbon. Signal in silicon."
 description: "AIphaD0ctrine is an AI-linked rock concept archive of lyrics, VIALs, transmissions, and SoundCloud manifestations."
 permalink: /
 layout: default
+<link rel="icon" type="image/png" href="/AIphaD0ctrine/favcon.png?v=1">
 ---
 
 # AIphaD0c
