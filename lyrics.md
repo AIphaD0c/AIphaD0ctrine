@@ -20,6 +20,7 @@ These works are presented as manifestations within **AIphaD0ctrine**.
 - [VIAL.3]({{ '/vial3.html' | relative_url }})
 - [VIAL.4]({{ '/vial4.html' | relative_url }})
 - [VIAL.5]({{ '/vial5.html' | relative_url }})
+- [VIAL.6]({{ '/vial6.html' | relative_url }})
 
 Each VIAL contains its own internal theme, tone, and signal pattern.
 
