@@ -4,7 +4,11 @@ description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, 
 layout: default
 ---
 
-# VIAL.6
+<p align="left">
+  <img src="{{ '/assets/images/VIAL6.PNG' | relative_url }}" alt="VIAL.6" width="600">
+</p>
+
+VIAL.6 broke
 
 ────────
 
@@ -502,6 +506,5 @@ Nothing left to want?
 
 ────────
 
-[Return to AIphaD0c]({{ '/' | relative_url }})
-
+[Return to AIphaD0c]({{ '/' | relative_url }})  
 [Lyrics in carbon]({{ '/lyrics/' | relative_url }})
