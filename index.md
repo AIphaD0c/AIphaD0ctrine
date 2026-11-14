@@ -25,23 +25,22 @@ VIALs break.
 Signals appear.
 Transmissions are detected.
 
-## PETA_FAB
+## VIAL.6 broke.
 
-**PETA_FAB** is not a factory.
+One cell divides. A molecule escapes. An old mutation finds its moment.  
+Seeds become mustard. A pig becomes meat. Someone asks for more.  
 
-VIALs were transmissions.
-PETA_FAB is what appears when the transmissions are assembled.
+VIAL.6 follows signals through matter, bodies, machines, and the hands that keep reaching.  
+Micropenem moves through the water. Bustard passes from seed to plate.  
+50me again changes the appetite. Riff Rough finds its shape at the receiving end.  
+W@atch keeps time as the watch changes hands. HE@T counts each gain and resets the price.  
 
-Not a source.
-Not an album.
-Not an explanation.
+The same small motion acquires a different consequence.  
+Division continues. The second hand moves on. Wanting finds another object.  
 
-A reconstructed fabrication layer at peta-scale.
+[Enter VIAL.6]({{ '/vial6.html' | relative_url }})
 
-t < 0 → t = 0 → T → 0
-
-Nothing is made.
-Everything is observed.
+Bugs shall prevail.
 
 ## Sections
 
