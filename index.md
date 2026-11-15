@@ -28,12 +28,12 @@ Transmissions are detected.
 ## VIAL.6 broke.
 
 One cell divides. A molecule escapes. An old mutation finds its moment.  
-Seeds become mustard. A pig becomes meat. Someone asks for more.  
+Seeds become mustard. A pig becomes ham. Someone asks for more.  
 
 VIAL.6 follows signals through matter, bodies, machines, and the hands that keep reaching.  
 Micropenem moves through the water. Bustard passes from seed to plate.  
 50me again changes the appetite. Riff Rough finds its shape at the receiving end.  
-W@atch keeps time as the watch changes hands. HE@T counts each gain and resets the price.  
+Watch keeps time as the watch changes hands. HE@T counts each gain and resets the price.  
 
 The same small motion acquires a different consequence.  
 Division continues. The second hand moves on. Wanting finds another object.  
