@@ -10,6 +10,12 @@ layout: default
 
 VIAL.6 broke
 
+<p>
+  <a href="https://soundcloud.com/aipha-d0c/sets/aiphad0ctrine-vial-6" target="_blank" rel="noopener noreferrer">
+    VIAL.6 on SoundCloud
+  </a>
+</p>
+
 ────────
 
 <details class="signal">
