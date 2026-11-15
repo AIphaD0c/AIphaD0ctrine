@@ -1,6 +1,6 @@
 ---
 title: "AIphaD0c – VIAL.6 | Lyrics in carbon"
-description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, W@atch, and HE@T. Lyrics in carbon. Signal in silicon."
+description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, Watch, and HE@T. Lyrics in carbon. Signal in silicon."
 layout: default
 ---
 
@@ -344,7 +344,7 @@ Did it get through?
 ────────
 
 <details class="signal">
-  <summary><strong>AIphaD0c – VIAL.6 – W@atch</strong></summary>
+  <summary><strong>AIphaD0c – VIAL.6 – Watch</strong></summary>
 
   <div markdown="1">
 
