@@ -1,6 +1,6 @@
 ---
 title: "AIphaD0c – VIAL.6 | Lyrics in carbon"
-description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, Watch, and HE@T. Lyrics in carbon. Signal in silicon."
+description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, Watch, HE@T, and OBDICTION. Lyrics in carbon. Signal in silicon."
 layout: default
 ---
 
@@ -506,6 +506,126 @@ Stayed when there was nothing left to fear
 Nothing left to lose.  
 
 Nothing left to want?  
+
+  </div>
+</details>
+
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.6 – OBDICTION</strong></summary>
+
+  <div markdown="1">
+
+One more.  
+
+Your choice.  
+Take care.  
+
+The first one made the darkness light  
+The second made the morning bright  
+A faster mile. A winning spin  
+It felt so good to go again  
+
+I knew the odds. I knew the pace  
+I loved the feeling of the chase  
+It felt like mine. It felt like fun  
+It ended. I began again  
+
+Just one. Just once. Just one more time  
+I called it choice. I called it mine  
+
+OBDICTION!  
+
+I know the cost. I know the score  
+It feels so good. I ask for more  
+
+Your choice.  
+
+Just this once. One more time.  
+
+OBDICTION!  
+
+The finish line was crossed at dawn  
+By noon the aching legs ran on  
+No race was left. I chased the split  
+A swollen knee. I ran on it  
+
+The odds were bad. I knew the game  
+The balance dropped. I played again  
+I shut it down. The numbers stayed  
+They ran beneath the words I said  
+
+I made a rule. I drew a line  
+I moved it back a second time  
+I called it choice. I called it mine  
+The hand was faster than the mind  
+
+OBDICTION!  
+
+I know the cost. I know the score  
+I hate it now. I want it more  
+
+Your choice.  
+
+I said I'd stop. One more time.  
+
+OBDICTION!  
+
+Your limits matter. We agree.  
+We help you choose responsibly.  
+A brighter score. A better day.  
+You can always walk away.  
+
+Your choice. Your pace.  
+Your personal best.  
+Set your limits.  
+Take a break.  
+
+The pleasure left. The pattern stayed  
+The rule was broken, then remade  
+I hated what I'd done that day  
+I did it again anyway  
+
+The screen was dark. The shoes stood still  
+The numbers ran against my will  
+
+Need less? We understand.  
+A steadier pulse. A quieter hand.  
+We have a way to turn it down.  
+A different answer, here and now.  
+
+The help was real. The noise drew back  
+A week went by. I didn't track  
+The hours or the odds or pace  
+I almost had a little space  
+
+Ready for what's next?  
+
+OBDICTION!  
+
+I paid the cost. I know the score  
+I want it gone. I take one more  
+
+Your choice.  
+
+Just this once. One more time.  
+
+OBDICTION!  
+
+I know.  
+I hate it.  
+I do it.  
+
+Your choice.  
+
+I said I'd stop.  
+
+Take care.  
+
+Just this once.  
+
+Welcome back.  
 
   </div>
 </details>
