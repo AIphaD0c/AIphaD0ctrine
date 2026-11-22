@@ -34,6 +34,7 @@ VIAL.6 follows signals through matter, bodies, machines, and the hands that keep
 Micropenem moves through the water. Bustard passes from seed to plate.  
 50me again changes the appetite. Riff Rough finds its shape at the receiving end.  
 Watch keeps time as the watch changes hands. HE@T counts each gain and resets the price.  
+OBDICTION: The pleasure left. The pattern stayed.  
 
 The same small motion acquires a different consequence.  
 Division continues. The second hand moves on. Wanting finds another object.  
