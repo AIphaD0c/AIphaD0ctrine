@@ -1,6 +1,6 @@
 ---
 title: "AIphaD0c – VIAL.6 | Lyrics in carbon"
-description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, Watch, HE@T, and OBDICTION. Lyrics in carbon. Signal in silicon."
+description: "VIAL.6 archive of AIphaD0ctrine: Micropenem, Bustard, 50me again, Riff Rough, Watch, HE@T, OBDICTION, and Muscle & Fatness. Lyrics in carbon. Signal in silicon."
 layout: default
 ---
 
@@ -626,6 +626,103 @@ Take care.
 Just this once.  
 
 Welcome back.  
+
+  </div>
+</details>
+
+────────
+
+<details class="signal">
+  <summary><strong>AIphaD0c – VIAL.6 – Muscle &amp; Fatness</strong></summary>
+
+  <div markdown="1">
+
+LITTLE BILLIE LOST ITS WILLIE!  
+THE BELLY TOOK ITS THRONE!  
+
+The urge that used to wake me  
+Left without a trace  
+They said the body was a temple  
+They never said it was on loan  
+
+Tired of being tired  
+The thing went out of sight  
+Been chasing clues and excuses  
+Done litres of bloody works  
+
+No warning light was flashing  
+No signal cut through the static  
+Just numbers on a cold screen  
+And habits wearing me down  
+
+Another day, another reading  
+Another number to obey  
+The results kept rolling in  
+But never showed me why  
+
+TIRED OF BEING TIRED!  
+TIRED OF BEING TOLD!  
+
+PRETEND THAT I CAN THRIVE!  
+I INTEND TO SURVIVE!  
+STILL EXPECTED TO GROW!  
+
+They say the climate’s changing  
+They tell me how to live  
+They tell me to consume  
+Then tell me what to quit  
+
+They count the loss  
+They count the cost  
+They’ve got a number for it all  
+But none of them explains the fall  
+
+LITTLE BILLIE LOST ITS WILLIE!  
+THE BELLY TOOK ITS THRONE!  
+
+The urge that used to wake me  
+Left without a trace  
+They said the body was a temple  
+They never said it was on loan  
+
+Now it’s just a pile of ruins  
+And echoes of yesterday  
+The mind got overcrowded  
+It couldn’t take one more day  
+
+Hope turned into desperation  
+Then even that was gone  
+
+No light.  
+No hope.  
+No future.  
+
+Just a deep pit full of shit.  
+
+A shot was taken.  
+It only hit me once.  
+
+What outlived the impact  
+Was forearm and gut.  
+
+The halls went quiet  
+The dust came drifting down  
+A forearm in the debris  
+Nothing else around  
+
+The fingers found a crack  
+The nails dug into stone  
+They dragged the forearm onward  
+No mind behind the move  
+
+The forearm.  
+Nothing left.  
+
+Middle finger…  
+
+…extended.  
+
+Dead.  
 
   </div>
 </details>
